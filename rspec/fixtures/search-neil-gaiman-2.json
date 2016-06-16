@@ -1,0 +1,7341 @@
+{
+ "start": 100,
+ "num_found": 296,
+ "numFound": 296,
+ "docs": [
+  {
+   "title_suggest": "Death",
+   "edition_key": [
+    "OL25347602M"
+   ],
+   "isbn": [
+    "9781401235482",
+    "1401235484"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25347602M",
+    "9781401235482",
+    "1401235484",
+    "Neil Gaiman",
+    "OL53305A",
+    "Death",
+    "Neil Gaiman",
+    "Death (Fictitious character : Gaiman)",
+    "Comic books, strips",
+    "/works/OL16672861W",
+    "DC Comics",
+    "2012022443",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25347602M",
+    "/works/OL16672861W",
+    "/subjects/death_(fictitious_character_:_gaiman)",
+    "/subjects/comic_books_strips",
+    "/authors/OL53305A"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Death (Fictitious character : Gaiman)",
+    "Comic books, strips"
+   ],
+   "title": "Death",
+   "publish_date": [
+    "2012"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16672861W",
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2012022443"
+   ],
+   "last_modified_i": 1348591819,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2012
+   ],
+   "first_publish_year": 2012
+  },
+  {
+   "title_suggest": "American gods",
+   "edition_key": [
+    "OL25291942M"
+   ],
+   "isbn": [
+    "0062059882",
+    "9780062059888"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25291942M",
+    "0062059882",
+    "9780062059888",
+    "Neil Gaiman",
+    "OL53305A",
+    "American gods",
+    "Neil Gaiman",
+    "Spiritual warfare",
+    "Widowers",
+    "Ex-convicts",
+    "Fiction",
+    "American National characteristics",
+    "Bodyguards",
+    "/works/OL16608955W",
+    "William Morrow",
+    "2012372622",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25291942M",
+    "/works/OL16608955W",
+    "/subjects/spiritual_warfare",
+    "/subjects/widowers",
+    "/subjects/american_national_characteristics",
+    "/subjects/bodyguards",
+    "/subjects/ex-convicts",
+    "/subjects/fiction",
+    "/authors/OL53305A"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Spiritual warfare",
+    "Widowers",
+    "Ex-convicts",
+    "Fiction",
+    "American National characteristics",
+    "Bodyguards"
+   ],
+   "title": "American gods",
+   "publish_date": [
+    "2011"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16608955W",
+   "publisher": [
+    "William Morrow"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2012372622"
+   ],
+   "last_modified_i": 1348591819,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2011
+   ],
+   "first_publish_year": 2011
+  },
+  {
+   "title_suggest": "The sandman",
+   "edition_key": [
+    "OL25362173M"
+   ],
+   "isbn": [
+    "140123545X",
+    "9781401235451"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25362173M",
+    "140123545X",
+    "9781401235451",
+    "Neil Gaiman",
+    "D'Israeli",
+    "Nowlan, Kevin",
+    "Vess, Charles",
+    "Case, Richard",
+    "Kristiansen, Teddy H.",
+    "Hempel, Marc",
+    "Ormston, Dean",
+    "Dillon, Glyn, 1971-",
+    "OL53305A",
+    "The kindly ones",
+    "The sandman",
+    "Neil Gaiman, Marc Hempel, Richard Case, D'Israeli, Teddy Kristiansen, Glyn Dillon, Charles Vess, Dean Ormston, Kevin Nowlan",
+    "/works/OL16689036W",
+    "DC Comics",
+    "Kindly ones",
+    "2012025967",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25362173M",
+    "/works/OL16689036W",
+    "/authors/OL53305A"
+   ],
+   "contributor": [
+    "D'Israeli",
+    "Nowlan, Kevin",
+    "Vess, Charles",
+    "Case, Richard",
+    "Kristiansen, Teddy H.",
+    "Hempel, Marc",
+    "Ormston, Dean",
+    "Dillon, Glyn, 1971-"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The sandman",
+   "publish_date": [
+    "2012"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16689036W",
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2012025967"
+   ],
+   "last_modified_i": 1348591819,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2012
+   ],
+   "first_publish_year": 2012
+  },
+  {
+   "title_suggest": "The sandman",
+   "edition_key": [
+    "OL25372546M"
+   ],
+   "isbn": [
+    "1401232639",
+    "9781401232634"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25372546M",
+    "1401232639",
+    "9781401232634",
+    "Neil Gaiman",
+    "Locke, Vince",
+    "Thompson, Jill, 1966-",
+    "OL53305A",
+    "Brief lives",
+    "The sandman",
+    "Neil Gaiman, Jill Thompson, Vince Locke",
+    "/works/OL16700298W",
+    "DC Comics",
+    "Brief lives",
+    "2012027193",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25372546M",
+    "/works/OL16700298W",
+    "/authors/OL53305A"
+   ],
+   "contributor": [
+    "Locke, Vince",
+    "Thompson, Jill, 1966-"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The sandman",
+   "publish_date": [
+    "2012"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16700298W",
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2012027193"
+   ],
+   "last_modified_i": 1348591819,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2012
+   ],
+   "first_publish_year": 2012
+  },
+  {
+   "title_suggest": "1602 Libro 2",
+   "edition_key": [
+    "OL9199841M"
+   ],
+   "isbn": [
+    "9789872159610",
+    "9872159610"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL9199841M",
+    "9789872159610",
+    "9872159610",
+    "Neil Gaiman",
+    "64405850",
+    "OL53305A",
+    "1602 Libro 2",
+    "/works/OL14975124W",
+    "Marvel Comics",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL9199841M",
+    "/works/OL14975124W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "1602 Libro 2",
+   "publish_date": [
+    "December 2004"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975124W",
+   "id_goodreads": [
+    "594627"
+   ],
+   "publisher": [
+    "Marvel Comics"
+   ],
+   "language": [
+    "spa"
+   ],
+   "last_modified_i": 1303846205,
+   "id_librarything": [
+    "2337348"
+   ],
+   "publish_year": [
+    2004
+   ],
+   "first_publish_year": 2004,
+   "oclc": [
+    "64405850"
+   ]
+  },
+  {
+   "title_suggest": "Books of Magic",
+   "edition_key": [
+    "OL8914347M"
+   ],
+   "cover_i": 882874,
+   "isbn": [
+    "9781840233339",
+    "1840233338"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8914347M",
+    "9781840233339",
+    "1840233338",
+    "Neil Gaiman",
+    "Peter Gross (Illustrator)",
+    "Jill Thompson (Illustrator)",
+    "47867945",
+    "OL53305A",
+    "Books of Magic",
+    "/works/OL14975139W",
+    "Titan Books Ltd",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8914347M",
+    "/works/OL14975139W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Peter Gross (Illustrator)",
+    "Jill Thompson (Illustrator)"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Books of Magic",
+   "publish_date": [
+    "November 23, 2001"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975139W",
+   "id_goodreads": [
+    "297001"
+   ],
+   "publisher": [
+    "Titan Books Ltd"
+   ],
+   "last_modified_i": 1341965754,
+   "id_librarything": [
+    "5705"
+   ],
+   "cover_edition_key": "OL8914347M",
+   "publish_year": [
+    2001
+   ],
+   "first_publish_year": 2001,
+   "oclc": [
+    "47867945"
+   ]
+  },
+  {
+   "title_suggest": "Worlds' End (Sandman, Book 8)",
+   "edition_key": [
+    "OL8645047M"
+   ],
+   "cover_i": 798009,
+   "isbn": [
+    "1563891700",
+    "9781563891700"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8645047M",
+    "1563891700",
+    "9781563891700",
+    "Neil Gaiman",
+    "OL53305A",
+    "Worlds' End (Sandman, Book 8)",
+    "/works/OL14975206W",
+    "Vertigo",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8645047M",
+    "/works/OL14975206W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Worlds' End (Sandman, Book 8)",
+   "publish_date": [
+    "July 16, 1999"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975206W",
+   "id_goodreads": [
+    "25103"
+   ],
+   "publisher": [
+    "Vertigo"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1281767604,
+   "id_librarything": [
+    "6044"
+   ],
+   "cover_edition_key": "OL8645047M",
+   "publish_year": [
+    1999
+   ],
+   "first_publish_year": 1999
+  },
+  {
+   "title_suggest": "The Kindly Ones (Sandman, Book 9)",
+   "edition_key": [
+    "OL8645066M"
+   ],
+   "cover_i": 798043,
+   "isbn": [
+    "9781563892042",
+    "1563892049"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8645066M",
+    "9781563892042",
+    "1563892049",
+    "Neil Gaiman",
+    "OL53305A",
+    "The Kindly Ones (Sandman, Book 9)",
+    "/works/OL14975162W",
+    "Vertigo",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8645066M",
+    "/works/OL14975162W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The Kindly Ones (Sandman, Book 9)",
+   "publish_date": [
+    "August 6, 1999"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975162W",
+   "id_goodreads": [
+    "71252"
+   ],
+   "publisher": [
+    "Vertigo"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1286954719,
+   "id_librarything": [
+    "6045"
+   ],
+   "cover_edition_key": "OL8645066M",
+   "publish_year": [
+    1999
+   ],
+   "first_publish_year": 1999
+  },
+  {
+   "title_suggest": "Bento",
+   "edition_key": [
+    "OL8525672M"
+   ],
+   "subtitle": "Story Art Box",
+   "has_fulltext": false,
+   "text": [
+    "OL8525672M",
+    "Story Art Box",
+    "Neil Gaiman",
+    "Kent Williams (Illustrator)",
+    "Dave Johnson (Editor)",
+    "Teresa Heyerdahl (Editor)",
+    "Allen Spiegel (Editor)",
+    "52427659",
+    "0964206943",
+    "9780964206946",
+    "OL53305A",
+    "Bento",
+    "/works/OL14975138W",
+    "Allen Spiegel Fine Arts",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8525672M",
+    "/works/OL14975138W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Kent Williams (Illustrator)",
+    "Dave Johnson (Editor)",
+    "Teresa Heyerdahl (Editor)",
+    "Allen Spiegel (Editor)"
+   ],
+   "isbn": [
+    "0964206943",
+    "9780964206946"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Bento",
+   "publish_date": [
+    "July 2001"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975138W",
+   "id_goodreads": [
+    "544753"
+   ],
+   "publisher": [
+    "Allen Spiegel Fine Arts"
+   ],
+   "last_modified_i": 1341792125,
+   "id_librarything": [
+    "140967"
+   ],
+   "publish_year": [
+    2001
+   ],
+   "first_publish_year": 2001,
+   "oclc": [
+    "52427659"
+   ]
+  },
+  {
+   "title_suggest": "Coraline (Infantil Y Juvenil)",
+   "edition_key": [
+    "OL9142284M"
+   ],
+   "cover_i": 4913602,
+   "isbn": [
+    "847888579X",
+    "9788478885794"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL9142284M",
+    "847888579X",
+    "9788478885794",
+    "Neil Gaiman",
+    "Dave McKean (Illustrator)",
+    "OL53305A",
+    "Coraline (Infantil Y Juvenil)",
+    "/works/OL14975143W",
+    "Salamandra",
+    "CORALINE DISCOVERED THE DOOR a little while after they moved into the house.",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL9142284M",
+    "/works/OL14975143W",
+    "/authors/OL53305A"
+   ],
+   "id_librarything": [
+    "4183"
+   ],
+   "contributor": [
+    "Dave McKean (Illustrator)"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Coraline (Infantil Y Juvenil)",
+   "publish_date": [
+    "November 2003"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975143W",
+   "id_goodreads": [
+    "924810"
+   ],
+   "publisher": [
+    "Salamandra"
+   ],
+   "language": [
+    "spa"
+   ],
+   "last_modified_i": 1286954689,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL9142284M",
+   "first_sentence": [
+    "CORALINE DISCOVERED THE DOOR a little while after they moved into the house."
+   ],
+   "publish_year": [
+    2003
+   ],
+   "first_publish_year": 2003
+  },
+  {
+   "title_suggest": "1602 Libro Tres",
+   "edition_key": [
+    "OL9199842M"
+   ],
+   "isbn": [
+    "9789872159627",
+    "9872159629"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL9199842M",
+    "9789872159627",
+    "9872159629",
+    "Neil Gaiman",
+    "OL53305A",
+    "1602 Libro Tres",
+    "/works/OL14975126W",
+    "Marvel Comics",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL9199842M",
+    "/works/OL14975126W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "1602 Libro Tres",
+   "publish_date": [
+    "December 2004"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975126W",
+   "id_goodreads": [
+    "476186"
+   ],
+   "publisher": [
+    "Marvel Comics"
+   ],
+   "language": [
+    "spa"
+   ],
+   "last_modified_i": 1286954666,
+   "id_librarything": [
+    "2911690"
+   ],
+   "publish_year": [
+    2004
+   ],
+   "first_publish_year": 2004
+  },
+  {
+   "title_suggest": "Preludes and Nocturnes (Sandman, Book 1)",
+   "edition_key": [
+    "OL7536532M"
+   ],
+   "isbn": [
+    "9780446393638",
+    "0446393630"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL7536532M",
+    "9780446393638",
+    "0446393630",
+    "Neil Gaiman",
+    "78776006",
+    "OL53305A",
+    "Preludes and Nocturnes (Sandman, Book 1)",
+    "/works/OL14975178W",
+    "Grand Central Publishing",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL7536532M",
+    "/works/OL14975178W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Preludes and Nocturnes (Sandman, Book 1)",
+   "publish_date": [
+    "November 1, 1991"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975178W",
+   "id_goodreads": [
+    "825077"
+   ],
+   "publisher": [
+    "Grand Central Publishing"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1303942995,
+   "id_librarything": [
+    "9347622"
+   ],
+   "publish_year": [
+    1991
+   ],
+   "first_publish_year": 1991,
+   "oclc": [
+    "78776006"
+   ]
+  },
+  {
+   "title_suggest": "1602 Libro Uno",
+   "edition_key": [
+    "OL9199764M"
+   ],
+   "isbn": [
+    "9872075824",
+    "9789872075828"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL9199764M",
+    "9872075824",
+    "9789872075828",
+    "Neil Gaiman",
+    "64405850",
+    "OL53305A",
+    "1602 Libro Uno",
+    "/works/OL14975128W",
+    "Marvel Comics",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL9199764M",
+    "/works/OL14975128W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "1602 Libro Uno",
+   "publish_date": [
+    "December 2004"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975128W",
+   "id_goodreads": [
+    "166582"
+   ],
+   "publisher": [
+    "Marvel Comics"
+   ],
+   "language": [
+    "spa"
+   ],
+   "last_modified_i": 1304007227,
+   "id_librarything": [
+    "2337337"
+   ],
+   "publish_year": [
+    2004
+   ],
+   "first_publish_year": 2004,
+   "oclc": [
+    "64405850"
+   ]
+  },
+  {
+   "title_suggest": "Fables and Reflections (Sandman, Book 6)",
+   "edition_key": [
+    "OL8645012M"
+   ],
+   "cover_i": 797974,
+   "isbn": [
+    "1563891069",
+    "9781563891069"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8645012M",
+    "1563891069",
+    "9781563891069",
+    "Neil Gaiman",
+    "OL53305A",
+    "Fables and Reflections (Sandman, Book 6)",
+    "/works/OL14975153W",
+    "Vertigo",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8645012M",
+    "/works/OL14975153W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Fables and Reflections (Sandman, Book 6)",
+   "publish_date": [
+    "March 10, 1999"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975153W",
+   "id_goodreads": [
+    "25106"
+   ],
+   "publisher": [
+    "Vertigo"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1281767599,
+   "id_librarything": [
+    "6042"
+   ],
+   "cover_edition_key": "OL8645012M",
+   "publish_year": [
+    1999
+   ],
+   "first_publish_year": 1999
+  },
+  {
+   "title_suggest": "The Doll's House (Sandman, Book 2)",
+   "edition_key": [
+    "OL8645074M"
+   ],
+   "cover_i": 4829914,
+   "isbn": [
+    "1563892251",
+    "9781563892257"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8645074M",
+    "1563892251",
+    "9781563892257",
+    "Neil Gaiman",
+    "OL53305A",
+    "The Doll's House (Sandman, Book 2)",
+    "/works/OL14975144W",
+    "Vertigo",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8645074M",
+    "/works/OL14975144W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The Doll's House (Sandman, Book 2)",
+   "publish_date": [
+    "March 10, 1999"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975144W",
+   "id_goodreads": [
+    "25099"
+   ],
+   "publisher": [
+    "Vertigo"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1286954694,
+   "id_librarything": [
+    "6039"
+   ],
+   "cover_edition_key": "OL8645074M",
+   "publish_year": [
+    1999
+   ],
+   "first_publish_year": 1999
+  },
+  {
+   "title_suggest": "Breakthrough",
+   "edition_key": [
+    "OL8381589M"
+   ],
+   "isbn": [
+    "9780874160970",
+    "0874160979"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8381589M",
+    "9780874160970",
+    "0874160979",
+    "Neil Gaiman",
+    "OL53305A",
+    "Breakthrough",
+    "/works/OL14975140W",
+    "Catalan Communications",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8381589M",
+    "/works/OL14975140W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Breakthrough",
+   "publish_date": [
+    "May 1990"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975140W",
+   "id_goodreads": [
+    "166581"
+   ],
+   "publisher": [
+    "Catalan Communications"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1281767592,
+   "id_librarything": [
+    "1534887"
+   ],
+   "publish_year": [
+    1990
+   ],
+   "first_publish_year": 1990
+  },
+  {
+   "title_suggest": "Dream Country (Sandman, Book 3)",
+   "edition_key": [
+    "OL8645075M"
+   ],
+   "cover_i": 798053,
+   "isbn": [
+    "156389226X",
+    "9781563892264"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8645075M",
+    "156389226X",
+    "9781563892264",
+    "Neil Gaiman",
+    "OL53305A",
+    "Dream Country (Sandman, Book 3)",
+    "/works/OL14975145W",
+    "Vertigo",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8645075M",
+    "/works/OL14975145W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Dream Country (Sandman, Book 3)",
+   "publish_date": [
+    "February 5, 1999"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975145W",
+   "id_goodreads": [
+    "25100"
+   ],
+   "publisher": [
+    "Vertigo"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1286954696,
+   "id_librarything": [
+    "6040"
+   ],
+   "cover_edition_key": "OL8645075M",
+   "publish_year": [
+    1999
+   ],
+   "first_publish_year": 1999
+  },
+  {
+   "title_suggest": "From the End of the Twentieth Century",
+   "edition_key": [
+    "OL8334944M"
+   ],
+   "cover_i": 705505,
+   "isbn": [
+    "0915368730",
+    "9780915368730"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8334944M",
+    "0915368730",
+    "9780915368730",
+    "Neil Gaiman",
+    "Paul J. Giguere (Editor)",
+    "39111566",
+    "OL53305A",
+    "From the End of the Twentieth Century",
+    "/works/OL14975158W",
+    "NESFA Press",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8334944M",
+    "/works/OL14975158W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Paul J. Giguere (Editor)"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "From the End of the Twentieth Century",
+   "publish_date": [
+    "February 1997"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975158W",
+   "id_goodreads": [
+    "597647"
+   ],
+   "publisher": [
+    "NESFA Press"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1304046048,
+   "id_librarything": [
+    "92301"
+   ],
+   "cover_edition_key": "OL8334944M",
+   "publish_year": [
+    1997
+   ],
+   "first_publish_year": 1997,
+   "oclc": [
+    "39111566"
+   ]
+  },
+  {
+   "title_suggest": "Strange Kaddish",
+   "edition_key": [
+    "OL8711024M"
+   ],
+   "subtitle": "Tales You Won't Hear from Bubbie",
+   "has_fulltext": false,
+   "text": [
+    "OL8711024M",
+    "Tales You Won't Hear from Bubbie",
+    "Neil Gaiman",
+    "Ricia Mainhardt (Editor)",
+    "Clifford Lawrence Meth (Editor)",
+    "36720598",
+    "1888669012",
+    "9781888669015",
+    "OL53305A",
+    "Strange Kaddish",
+    "/works/OL14975183W",
+    "Aardwolf Pub",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8711024M",
+    "/works/OL14975183W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Ricia Mainhardt (Editor)",
+    "Clifford Lawrence Meth (Editor)"
+   ],
+   "isbn": [
+    "1888669012",
+    "9781888669015"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Strange Kaddish",
+   "publish_date": [
+    "May 1996"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975183W",
+   "id_goodreads": [
+    "677801"
+   ],
+   "publisher": [
+    "Aardwolf Pub"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1303780301,
+   "id_librarything": [
+    "353705"
+   ],
+   "publish_year": [
+    1996
+   ],
+   "first_publish_year": 1996,
+   "oclc": [
+    "36720598"
+   ]
+  },
+  {
+   "title_suggest": "Sandman Midnight Theatre",
+   "edition_key": [
+    "OL8645069M"
+   ],
+   "isbn": [
+    "9781563892080",
+    "1563892081"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8645069M",
+    "9781563892080",
+    "1563892081",
+    "Neil Gaiman",
+    "OL53305A",
+    "Sandman Midnight Theatre",
+    "/works/OL14975180W",
+    "Dc Comics",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8645069M",
+    "/works/OL14975180W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Sandman Midnight Theatre",
+   "publish_date": [
+    "July 1995"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975180W",
+   "id_goodreads": [
+    "161197"
+   ],
+   "publisher": [
+    "Dc Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1286954738,
+   "id_librarything": [
+    "211498"
+   ],
+   "publish_year": [
+    1995
+   ],
+   "first_publish_year": 1995
+  },
+  {
+   "title_suggest": "Constantine",
+   "edition_key": [
+    "OL8914599M"
+   ],
+   "cover_i": 883222,
+   "isbn": [
+    "9781840239799",
+    "1840239794"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8914599M",
+    "9781840239799",
+    "1840239794",
+    "Neil Gaiman",
+    "57165972",
+    "OL53305A",
+    "Constantine",
+    "/works/OL14975142W",
+    "Titan Books Ltd",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8914599M",
+    "/works/OL14975142W",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "57165972"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Constantine",
+   "publish_date": [
+    "February 25, 2005"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975142W",
+   "id_goodreads": [
+    "1253689"
+   ],
+   "publisher": [
+    "Titan Books Ltd"
+   ],
+   "last_modified_i": 1304164430,
+   "id_librarything": [
+    "8109833"
+   ],
+   "cover_edition_key": "OL8914599M",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2005
+   ],
+   "first_publish_year": 2005
+  },
+  {
+   "title_suggest": "The Facts In The Case Of The Departure Of Miss Finch",
+   "edition_key": [
+    "OL8870077M"
+   ],
+   "cover_i": 869566,
+   "isbn": [
+    "1593076673",
+    "9781593076672"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8870077M",
+    "1593076673",
+    "9781593076672",
+    "Neil Gaiman",
+    "OL53305A",
+    "The Facts In The Case Of The Departure Of Miss Finch",
+    "/works/OL14975155W",
+    "Dark Horse",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8870077M",
+    "/works/OL14975155W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The Facts In The Case Of The Departure Of Miss Finch",
+   "publish_date": [
+    "October 10, 2007"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975155W",
+   "id_goodreads": [
+    "16794"
+   ],
+   "publisher": [
+    "Dark Horse"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1286954705,
+   "id_librarything": [
+    "1485966"
+   ],
+   "cover_edition_key": "OL8870077M",
+   "publish_year": [
+    2007
+   ],
+   "first_publish_year": 2007
+  },
+  {
+   "title_suggest": "Edge (Dave McKean cover art) (Edge)",
+   "edition_key": [
+    "OL8708621M"
+   ],
+   "cover_i": 935167,
+   "isbn": [
+    "188759146X",
+    "9781887591461"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8708621M",
+    "188759146X",
+    "9781887591461",
+    "Neil Gaiman",
+    "56356842",
+    "OL53305A",
+    "Edge (Dave McKean cover art) (Edge)",
+    "/works/OL14975149W",
+    "Vanguard Productions",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8708621M",
+    "/works/OL14975149W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Edge (Dave McKean cover art) (Edge)",
+   "publish_date": [
+    "April 1, 2003"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975149W",
+   "id_goodreads": [
+    "181011"
+   ],
+   "publisher": [
+    "Vanguard Productions"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1304162732,
+   "id_librarything": [
+    "173003"
+   ],
+   "cover_edition_key": "OL8708621M",
+   "publish_year": [
+    2003
+   ],
+   "first_publish_year": 2003,
+   "oclc": [
+    "56356842"
+   ]
+  },
+  {
+   "title_suggest": "A1 Book 5",
+   "edition_key": [
+    "OL8652024M"
+   ],
+   "isbn": [
+    "9781871878394",
+    "187187839X"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8652024M",
+    "9781871878394",
+    "187187839X",
+    "Neil Gaiman",
+    "Glenn Fabry (Illustrator)",
+    "David Lloyd (Illustrator)",
+    "Jeff Jones (Illustrator)",
+    "OL53305A",
+    "A1 Book 5",
+    "/works/OL14975132W",
+    "Atomeka Press",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8652024M",
+    "/works/OL14975132W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Glenn Fabry (Illustrator)",
+    "David Lloyd (Illustrator)",
+    "Jeff Jones (Illustrator)"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "A1 Book 5",
+   "publish_date": [
+    "1991"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975132W",
+   "id_goodreads": [
+    "359333"
+   ],
+   "publisher": [
+    "Atomeka Press"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1281508969,
+   "id_librarything": [
+    "7150096"
+   ],
+   "publish_year": [
+    1991
+   ],
+   "first_publish_year": 1991
+  },
+  {
+   "title_suggest": "La Derni\u00e8re Tentation",
+   "edition_key": [
+    "OL12626851M"
+   ],
+   "cover_i": 3143694,
+   "isbn": [
+    "9782846250108",
+    "2846250103"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL12626851M",
+    "9782846250108",
+    "2846250103",
+    "Neil Gaiman",
+    "OL53305A",
+    "La Derni\u00e8re Tentation",
+    "/works/OL14975164W",
+    "Bulle Dog",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL12626851M",
+    "/works/OL14975164W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "La Derni\u00e8re Tentation",
+   "publish_date": [
+    "June 11, 2002"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975164W",
+   "id_goodreads": [
+    "966354"
+   ],
+   "publisher": [
+    "Bulle Dog"
+   ],
+   "language": [
+    "fre"
+   ],
+   "last_modified_i": 1286954720,
+   "id_librarything": [
+    "45046"
+   ],
+   "cover_edition_key": "OL12626851M",
+   "publish_year": [
+    2002
+   ],
+   "first_publish_year": 2002
+  },
+  {
+   "title_suggest": "24 Hour Comics",
+   "edition_key": [
+    "OL8565173M"
+   ],
+   "cover_i": 736895,
+   "isbn": [
+    "0971633843",
+    "9780971633841"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8565173M",
+    "0971633843",
+    "9780971633841",
+    "Neil Gaiman",
+    "55945667",
+    "OL53305A",
+    "24 Hour Comics",
+    "/works/OL14975130W",
+    "About Comics",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8565173M",
+    "/works/OL14975130W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "24 Hour Comics",
+   "publish_date": [
+    "April 21, 2004"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975130W",
+   "id_goodreads": [
+    "123903"
+   ],
+   "publisher": [
+    "About Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1303742766,
+   "id_librarything": [
+    "405399"
+   ],
+   "cover_edition_key": "OL8565173M",
+   "publish_year": [
+    2004
+   ],
+   "first_publish_year": 2004,
+   "oclc": [
+    "55945667"
+   ]
+  },
+  {
+   "title_suggest": "The Wake (Sandman, Book 10)",
+   "edition_key": [
+    "OL8645110M"
+   ],
+   "cover_i": 798116,
+   "isbn": [
+    "9781563892875",
+    "1563892871"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8645110M",
+    "9781563892875",
+    "1563892871",
+    "Neil Gaiman",
+    "Jon J. Muth (Illustrator)",
+    "Charles Vess (Illustrator)",
+    "OL53305A",
+    "The Wake (Sandman, Book 10)",
+    "/works/OL14975194W",
+    "Vertigo",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8645110M",
+    "/works/OL14975194W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Jon J. Muth (Illustrator)",
+    "Charles Vess (Illustrator)"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The Wake (Sandman, Book 10)",
+   "publish_date": [
+    "September 3, 1999"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975194W",
+   "id_goodreads": [
+    "25104"
+   ],
+   "publisher": [
+    "Vertigo"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1286954754,
+   "id_librarything": [
+    "6037"
+   ],
+   "cover_edition_key": "OL8645110M",
+   "publish_year": [
+    1999
+   ],
+   "first_publish_year": 1999
+  },
+  {
+   "title_suggest": "The Compleat Alice Cooper: Incorporating the Three Acts of Alice Cooper",
+   "edition_key": [
+    "OL8098221M"
+   ],
+   "subtitle": "The Last Temptation",
+   "has_fulltext": false,
+   "text": [
+    "OL8098221M",
+    "The Last Temptation",
+    "Neil Gaiman",
+    "Michael Zulli (Illustrator)",
+    "Dave McKean (Illustrator)",
+    "40600890",
+    "9780785101192",
+    "0785101195",
+    "OL53305A",
+    "The Compleat Alice Cooper: Incorporating the Three Acts of Alice Cooper",
+    "/works/OL14975141W",
+    "Marvel Enterprises",
+    "The Compleat Alice Cooper: Incorporating the Three Acts of Alice Cooper ",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8098221M",
+    "/works/OL14975141W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Michael Zulli (Illustrator)",
+    "Dave McKean (Illustrator)"
+   ],
+   "isbn": [
+    "9780785101192",
+    "0785101195"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The Compleat Alice Cooper: Incorporating the Three Acts of Alice Cooper",
+   "publish_date": [
+    "April 1996"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975141W",
+   "id_goodreads": [
+    "8739"
+   ],
+   "publisher": [
+    "Marvel Enterprises"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1303844279,
+   "id_librarything": [
+    "467752"
+   ],
+   "publish_year": [
+    1996
+   ],
+   "first_publish_year": 1996,
+   "oclc": [
+    "40600890"
+   ]
+  },
+  {
+   "title_suggest": "Marvel 1602",
+   "edition_key": [
+    "OL8098565M"
+   ],
+   "cover_i": 535726,
+   "isbn": [
+    "0785110704",
+    "9780785110705"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8098565M",
+    "0785110704",
+    "9780785110705",
+    "Neil Gaiman",
+    "OL53305A",
+    "Marvel 1602",
+    "/works/OL14975167W",
+    "Marvel Comics",
+    "2003, 2004",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8098565M",
+    "/works/OL14975167W",
+    "/authors/OL53305A"
+   ],
+   "id_librarything": [
+    "36415"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Marvel 1602",
+   "publish_date": [
+    "October 1, 2004"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York, USA"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL14975167W",
+   "id_goodreads": [
+    "597641"
+   ],
+   "publisher": [
+    "Marvel Comics"
+   ],
+   "id_amazon": [
+    "0785110739"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1307600225,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL8098565M",
+   "publish_year": [
+    2004
+   ],
+   "first_publish_year": 2004
+  },
+  {
+   "title_suggest": "The \"Matrix\" Comics",
+   "edition_key": [
+    "OL8914512M"
+   ],
+   "cover_i": 883137,
+   "isbn": [
+    "1840238062",
+    "9781840238068"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8914512M",
+    "1840238062",
+    "9781840238068",
+    "Neil Gaiman",
+    "Dave Gibbons (Illustrator)",
+    "OL53305A",
+    "The \"Matrix\" Comics",
+    "/works/OL14975173W",
+    "Titan Books Ltd",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8914512M",
+    "/works/OL14975173W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Dave Gibbons (Illustrator)"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The \"Matrix\" Comics",
+   "publish_date": [
+    "November 21, 2003"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975173W",
+   "id_goodreads": [
+    "1084195"
+   ],
+   "publisher": [
+    "Titan Books Ltd"
+   ],
+   "last_modified_i": 1286954725,
+   "id_librarything": [
+    "178285"
+   ],
+   "cover_edition_key": "OL8914512M",
+   "publish_year": [
+    2003
+   ],
+   "first_publish_year": 2003
+  },
+  {
+   "title_suggest": "Le Jour o\u00f9 j'ai \u00e9chang\u00e9 mon p\u00e8re contre deux poissons rouges",
+   "edition_key": [
+    "OL8942321M"
+   ],
+   "isbn": [
+    "9782840555575",
+    "2840555573"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8942321M",
+    "9782840555575",
+    "2840555573",
+    "Neil Gaiman",
+    "412294556",
+    "OL53305A",
+    "Le Jour o\u00f9 j'ai \u00e9chang\u00e9 mon p\u00e8re contre deux poissons rouges",
+    "/works/OL14975165W",
+    "Delcourt",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8942321M",
+    "/works/OL14975165W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Le Jour o\u00f9 j'ai \u00e9chang\u00e9 mon p\u00e8re contre deux poissons rouges",
+   "publish_date": [
+    "October 24, 2000"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975165W",
+   "id_goodreads": [
+    "428659"
+   ],
+   "publisher": [
+    "Delcourt"
+   ],
+   "language": [
+    "fre"
+   ],
+   "last_modified_i": 1304033790,
+   "id_librarything": [
+    "45111"
+   ],
+   "publish_year": [
+    2000
+   ],
+   "first_publish_year": 2000,
+   "oclc": [
+    "412294556"
+   ]
+  },
+  {
+   "title_suggest": "Ballads",
+   "edition_key": [
+    "OL8531080M"
+   ],
+   "cover_i": 730182,
+   "isbn": [
+    "0965776905",
+    "9780965776905"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8531080M",
+    "0965776905",
+    "9780965776905",
+    "Neil Gaiman",
+    "Paul Chadwick (Introduction)",
+    "Jeff Smith (Illustrator)",
+    "38290539",
+    "OL53305A",
+    "Ballads",
+    "/works/OL14975135W",
+    "Green Man Press",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8531080M",
+    "/works/OL14975135W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Paul Chadwick (Introduction)",
+    "Jeff Smith (Illustrator)"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Ballads",
+   "publish_date": [
+    "May 15, 1997"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975135W",
+   "id_goodreads": [
+    "1214405"
+   ],
+   "publisher": [
+    "Green Man Press"
+   ],
+   "last_modified_i": 1303907131,
+   "id_librarything": [
+    "7065"
+   ],
+   "cover_edition_key": "OL8531080M",
+   "publish_year": [
+    1997
+   ],
+   "first_publish_year": 1997,
+   "oclc": [
+    "38290539"
+   ]
+  },
+  {
+   "title_suggest": "Selections from Fragile Things, Volume 1",
+   "edition_key": [
+    "OL24317286M"
+   ],
+   "isbn": [
+    "9780061848681",
+    "0061848689",
+    "9780061848704",
+    "0061848700"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL24317286M",
+    "9780061848681",
+    "0061848689",
+    "9780061848704",
+    "0061848700",
+    "Neil Gaiman",
+    "OL53305A",
+    "Selections from Fragile Things, Volume 1",
+    "OverDrive",
+    "Short Stories",
+    "Fiction",
+    "/works/OL15185258W",
+    "HarperCollins",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24317286M",
+    "/works/OL15185258W",
+    "/subjects/fiction",
+    "/subjects/short_stories",
+    "/subjects/overdrive",
+    "/authors/OL53305A"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "OverDrive",
+    "Short Stories",
+    "Fiction"
+   ],
+   "title": "Selections from Fragile Things, Volume 1",
+   "publish_date": [
+    "2009"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "overdrive_s": "E8519073-4EF0-4AF5-B7C7-AF91B81590C2",
+   "key": "/works/OL15185258W",
+   "id_overdrive": [
+    "E8519073-4EF0-4AF5-B7C7-AF91B81590C2"
+   ],
+   "publisher": [
+    "HarperCollins"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1320905233,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24317286M",
+   "publish_year": [
+    2009
+   ],
+   "first_publish_year": 2009
+  },
+  {
+   "title_suggest": "The Sandman Volume 1",
+   "edition_key": [
+    "OL24377265M"
+   ],
+   "subtitle": "Preludes & Nocturnes",
+   "has_fulltext": false,
+   "text": [
+    "OL24377265M",
+    "Preludes & Nocturnes",
+    "Neil Gaiman",
+    "429021940",
+    "1401225756",
+    "9781401225759",
+    "OL53305A",
+    "The Sandman Volume 1",
+    "/works/OL15406926W",
+    "Vertigo",
+    "The Sandman Volume 1: Preludes & Nocturnes",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24377265M",
+    "/works/OL15406926W",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "429021940"
+   ],
+   "isbn": [
+    "1401225756",
+    "9781401225759"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The Sandman Volume 1",
+   "publish_date": [
+    "2010"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL15406926W",
+   "publisher": [
+    "Vertigo"
+   ],
+   "last_modified_i": 1342002706,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24377265M",
+   "publish_year": [
+    2010
+   ],
+   "first_publish_year": 2010
+  },
+  {
+   "title_suggest": "The Sandman Volume 3",
+   "edition_key": [
+    "OL24377268M"
+   ],
+   "subtitle": "Dream Country",
+   "has_fulltext": false,
+   "text": [
+    "OL24377268M",
+    "Dream Country",
+    "Neil Gaiman",
+    "535490029",
+    "9781401229351",
+    "1401229352",
+    "OL53305A",
+    "The Sandman Volume 3",
+    "/works/OL15406929W",
+    "Vertigo",
+    "The Sandman Volume 3: Dream Country",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24377268M",
+    "/works/OL15406929W",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "535490029"
+   ],
+   "isbn": [
+    "9781401229351",
+    "1401229352"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The Sandman Volume 3",
+   "publish_date": [
+    "2010"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL15406929W",
+   "publisher": [
+    "Vertigo"
+   ],
+   "last_modified_i": 1340790058,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24377268M",
+   "publish_year": [
+    2010
+   ],
+   "first_publish_year": 2010
+  },
+  {
+   "title_suggest": "The Best American Comics 2010",
+   "publisher": [
+    "HMH"
+   ],
+   "edition_key": [
+    "OL24366052M"
+   ],
+   "isbn": [
+    "9780547241777",
+    "0547241771"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "oclc": [
+    "505420638"
+   ],
+   "last_modified_i": 1335945764,
+   "title": "The Best American Comics 2010",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24366052M",
+   "publish_year": [
+    2010
+   ],
+   "seed": [
+    "/books/OL24366052M",
+    "/works/OL15382768W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2010,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL15382768W",
+   "text": [
+    "OL24366052M",
+    "9780547241777",
+    "0547241771",
+    "Neil Gaiman",
+    "505420638",
+    "OL53305A",
+    "The Best American Comics 2010",
+    "/works/OL15382768W",
+    "HMH",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2010"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The Sandman, Volume 2",
+   "edition_key": [
+    "OL24417363M"
+   ],
+   "subtitle": "The Doll's House",
+   "has_fulltext": false,
+   "text": [
+    "OL24417363M",
+    "The Doll's House",
+    "Neil Gaiman",
+    "466340925",
+    "1401227996",
+    "9781401227999",
+    "OL53305A",
+    "The Sandman, Volume 2",
+    "/works/OL15449786W",
+    "Vertigo",
+    "The Sandman, Volume 2: The Doll's House",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24417363M",
+    "/works/OL15449786W",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "466340925"
+   ],
+   "isbn": [
+    "1401227996",
+    "9781401227999"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The Sandman, Volume 2",
+   "publish_date": [
+    "2010"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL15449786W",
+   "publisher": [
+    "Vertigo"
+   ],
+   "last_modified_i": 1342002707,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24417363M",
+   "publish_year": [
+    2010
+   ],
+   "first_publish_year": 2010
+  },
+  {
+   "title_suggest": "Absolute Death",
+   "publisher": [
+    "Random House"
+   ],
+   "isbn": [
+    "9781401224639",
+    "1401224636"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL24644725M"
+   ],
+   "last_modified_i": 1305033557,
+   "title": "Absolute Death",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24644725M",
+   "publish_year": [
+    2009
+   ],
+   "seed": [
+    "/books/OL24644725M",
+    "/works/OL15728466W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2009,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL15728466W",
+   "text": [
+    "OL24644725M",
+    "9781401224639",
+    "1401224636",
+    "Neil Gaiman",
+    "OL53305A",
+    "Absolute Death",
+    "/works/OL15728466W",
+    "Random House",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2009"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Stardust",
+   "edition_key": [
+    "OL24743639M"
+   ],
+   "cover_i": 6797315,
+   "isbn": [
+    "0060934719",
+    "9780060934712"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24743639M",
+    "0060934719",
+    "9780060934712",
+    "Neil Gaiman",
+    "stardust00gaim",
+    "OL53305A",
+    "Stardust",
+    "Young men",
+    "Accessible book",
+    "Protected DAISY",
+    "Fiction",
+    "/works/OL15833328W",
+    "Neil Gaiman",
+    "Perennial",
+    "00065242",
+    "Neil Richard Gaiman",
+    "England"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24743639M",
+    "/works/OL15833328W",
+    "/subjects/young_men",
+    "/subjects/fiction",
+    "/subjects/protected_daisy",
+    "/subjects/place:england",
+    "/authors/OL53305A"
+   ],
+   "ia": [
+    "stardust00gaim"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Young men",
+    "Accessible book",
+    "Protected DAISY",
+    "Fiction"
+   ],
+   "title": "Stardust",
+   "ia_collection_s": "printdisabled;china;internetarchivebooks",
+   "first_publish_year": 2001,
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "printdisabled_s": "OL24743639M",
+   "ia_box_id": [
+    "IA117005"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL15833328W",
+   "public_scan_b": false,
+   "publisher": [
+    "Perennial"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "00065242"
+   ],
+   "last_modified_i": 1348591819,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24743639M",
+   "publish_year": [
+    2001
+   ],
+   "publish_date": [
+    "2001"
+   ],
+   "place": [
+    "England"
+   ]
+  },
+  {
+   "title_suggest": "Smoke and mirrors",
+   "edition_key": [
+    "OL24754532M"
+   ],
+   "cover_i": 6808282,
+   "isbn": [
+    "0380973642",
+    "9780380973644"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24754532M",
+    "0380973642",
+    "9780380973644",
+    "Neil Gaiman",
+    "smokemirrorsshor00gaim",
+    "OL53305A",
+    "short fictions and illusions",
+    "Smoke and mirrors",
+    "In library",
+    "Accessible book",
+    "Protected DAISY",
+    "/works/OL15845196W",
+    "Neil Gaiman",
+    "Avon Books",
+    "98018163",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24754532M",
+    "/works/OL15845196W",
+    "/subjects/protected_daisy",
+    "/subjects/in_library",
+    "/authors/OL53305A"
+   ],
+   "ia": [
+    "smokemirrorsshor00gaim"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "In library",
+    "Accessible book",
+    "Protected DAISY"
+   ],
+   "title": "Smoke and mirrors",
+   "lending_identifier_s": "smokemirrorsshor00gaim",
+   "ia_collection_s": "printdisabled;browserlending;china;inlibrary;internetarchivebooks",
+   "first_publish_year": 1998,
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "printdisabled_s": "OL24754532M",
+   "ia_box_id": [
+    "IA130618"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL15845196W",
+   "public_scan_b": false,
+   "publisher": [
+    "Avon Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "98018163"
+   ],
+   "last_modified_i": 1348591819,
+   "lending_edition_s": "OL24754532M",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24754532M",
+   "publish_year": [
+    1998
+   ],
+   "publish_date": [
+    "1998"
+   ]
+  },
+  {
+   "title_suggest": "Anansi boys",
+   "edition_key": [
+    "OL24769027M"
+   ],
+   "cover_i": 6822862,
+   "isbn": [
+    "006051518X",
+    "9780060515188"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24769027M",
+    "006051518X",
+    "9780060515188",
+    "Neil Gaiman",
+    "60402072",
+    "anansiboys00gaim",
+    "OL53305A",
+    "Anansi boys",
+    "Brothers",
+    "Adventure and adventurers",
+    "Gods",
+    "Accessible book",
+    "Protected DAISY",
+    "Fathers and sons",
+    "Fiction",
+    "Anansi (Legendary character)",
+    "/works/OL15860277W",
+    "Neil Gaiman",
+    "William Morrow",
+    "2005047176",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24769027M",
+    "/works/OL15860277W",
+    "/subjects/brothers",
+    "/subjects/adventure_and_adventurers",
+    "/subjects/gods",
+    "/subjects/anansi_(legendary_character)",
+    "/subjects/fathers_and_sons",
+    "/subjects/fiction",
+    "/subjects/protected_daisy",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "60402072"
+   ],
+   "ia": [
+    "anansiboys00gaim"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Brothers",
+    "Adventure and adventurers",
+    "Gods",
+    "Accessible book",
+    "Protected DAISY",
+    "Fathers and sons",
+    "Fiction",
+    "Anansi (Legendary character)"
+   ],
+   "title": "Anansi boys",
+   "ia_collection_s": "printdisabled;china;internetarchivebooks",
+   "first_publish_year": 2005,
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "printdisabled_s": "OL24769027M",
+   "ia_box_id": [
+    "IA127010"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL15860277W",
+   "public_scan_b": false,
+   "publisher": [
+    "William Morrow"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2005047176"
+   ],
+   "last_modified_i": 1348591819,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24769027M",
+   "publish_year": [
+    2005
+   ],
+   "publish_date": [
+    "2005"
+   ]
+  },
+  {
+   "title_suggest": "The sandman",
+   "edition_key": [
+    "OL24827632M"
+   ],
+   "isbn": [
+    "9781401230432",
+    "1401230431"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL24827632M",
+    "9781401230432",
+    "1401230431",
+    "Neil Gaiman",
+    "McManus, Shawn",
+    "OL53305A",
+    "a game of you",
+    "The sandman",
+    "writer, Neil Gaiman ; pencils, Shawn McManus",
+    "/works/OL15921233W",
+    "DC Comics",
+    "2011008842",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24827632M",
+    "/works/OL15921233W",
+    "/authors/OL53305A"
+   ],
+   "contributor": [
+    "McManus, Shawn"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The sandman",
+   "publish_date": [
+    "2011"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL15921233W",
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2011008842"
+   ],
+   "last_modified_i": 1348591819,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2011
+   ],
+   "first_publish_year": 2011
+  },
+  {
+   "title_suggest": "Noisy Outlaws, Unfriendly Blobs, and Some Other Things . . ",
+   "edition_key": [
+    "OL8808868M"
+   ],
+   "cover_i": 959664,
+   "subtitle": "That Aren't as Scary, Maybe, Depending on How You Feel About Lost Lands, Stray Cellphones, ... Quite Finish, So Maybe You Could Help Us Out",
+   "has_fulltext": true,
+   "id_librarything": [
+    "37727"
+   ],
+   "text": [
+    "OL8808868M",
+    "That Aren't as Scary, Maybe, Depending on How You Feel About Lost Lands, Stray Cellphones, ... Quite Finish, So Maybe You Could Help Us Out",
+    "Neil Gaiman",
+    "Lemony Snicket (Introduction)",
+    "Editors of McSweeney's (Editor)",
+    "61856702",
+    "noisyoutlawsunfr00nick",
+    "1932416358",
+    "9781932416350",
+    "OL53305A",
+    "Noisy Outlaws, Unfriendly Blobs, and Some Other Things . . ",
+    "Accessible book",
+    "Protected DAISY",
+    "/works/OL14975175W",
+    "McSweeney's",
+    "Noisy Outlaws, Unfriendly Blobs, and Some Other Things . . .",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "contributor": [
+    "Lemony Snicket (Introduction)",
+    "Editors of McSweeney's (Editor)"
+   ],
+   "seed": [
+    "/books/OL8808868M",
+    "/works/OL14975175W",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "61856702"
+   ],
+   "ia": [
+    "noisyoutlawsunfr00nick"
+   ],
+   "isbn": [
+    "1932416358",
+    "9781932416350"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Accessible book",
+    "Protected DAISY"
+   ],
+   "title": "Noisy Outlaws, Unfriendly Blobs, and Some Other Things . . ",
+   "ia_collection_s": "printdisabled;china;internetarchivebooks",
+   "first_publish_year": 2005,
+   "type": "work",
+   "ebook_count_i": 1,
+   "printdisabled_s": "OL8808868M",
+   "ia_box_id": [
+    "IA155314"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL14975175W",
+   "id_goodreads": [
+    "15591"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "McSweeney's"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1396724858,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL8808868M",
+   "publish_year": [
+    2005
+   ],
+   "publish_date": [
+    "October 1, 2005"
+   ]
+  },
+  {
+   "title_suggest": "The Extraordinary Works Of Alan Moore",
+   "edition_key": [
+    "OL8722344M"
+   ],
+   "cover_i": 943083,
+   "isbn": [
+    "1893905241",
+    "9781893905245"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8722344M",
+    "1893905241",
+    "9781893905245",
+    "Neil Gaiman",
+    "OL53305A",
+    "The Extraordinary Works Of Alan Moore",
+    "/works/OL14975151W",
+    "TwoMorrows Publishing",
+    "So, we'll start at the beginning, like when and where were you born.",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8722344M",
+    "/works/OL14975151W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The Extraordinary Works Of Alan Moore",
+   "publish_date": [
+    "July 23, 2003"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975151W",
+   "id_goodreads": [
+    "102326"
+   ],
+   "publisher": [
+    "TwoMorrows Publishing"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1281428635,
+   "id_librarything": [
+    "2199747"
+   ],
+   "cover_edition_key": "OL8722344M",
+   "first_sentence": [
+    "So, we'll start at the beginning, like when and where were you born."
+   ],
+   "publish_year": [
+    2003
+   ],
+   "first_publish_year": 2003
+  },
+  {
+   "title_suggest": "Season of Mists (Sandman, Book 4)",
+   "edition_key": [
+    "OL8644970M"
+   ],
+   "cover_i": 797930,
+   "isbn": [
+    "1563890356",
+    "9781563890352"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8644970M",
+    "1563890356",
+    "9781563890352",
+    "Neil Gaiman",
+    "OL53305A",
+    "Season of Mists (Sandman, Book 4)",
+    "/works/OL14975181W",
+    "Vertigo",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8644970M",
+    "/works/OL14975181W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Season of Mists (Sandman, Book 4)",
+   "publish_date": [
+    "March 10, 1999"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL14975181W",
+   "id_goodreads": [
+    "25101"
+   ],
+   "publisher": [
+    "Vertigo"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1286954742,
+   "id_librarything": [
+    "6041"
+   ],
+   "cover_edition_key": "OL8644970M",
+   "publish_year": [
+    1999
+   ],
+   "first_publish_year": 1999
+  },
+  {
+   "title_suggest": "Absolute Sandman Vol 4",
+   "publisher": [
+    "Vertigo"
+   ],
+   "isbn": [
+    "1401210856",
+    "9781401210854"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL24644726M"
+   ],
+   "last_modified_i": 1305033698,
+   "title": "Absolute Sandman Vol 4",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24644726M",
+   "publish_year": [
+    2008
+   ],
+   "seed": [
+    "/books/OL24644726M",
+    "/works/OL15728468W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2008,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL15728468W",
+   "text": [
+    "OL24644726M",
+    "1401210856",
+    "9781401210854",
+    "Neil Gaiman",
+    "OL53305A",
+    "Absolute Sandman Vol 4",
+    "/works/OL15728468W",
+    "Vertigo",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2008"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Odd and the frost giants",
+   "edition_key": [
+    "OL25572281M"
+   ],
+   "isbn": [
+    "0747595380",
+    "9780747595380"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL25572281M",
+    "0747595380",
+    "9780747595380",
+    "Neil Gaiman",
+    "Buckingham, Mark",
+    "182663593",
+    "oddfrostgiants00gaim_500",
+    "OL7215123A",
+    "Odd and the frost giants",
+    "by Neil Gaiman ; illustrated by Mark Buckingham",
+    "Norse Gods",
+    "Accessible book",
+    "Protected DAISY",
+    "Animals",
+    "Fiction",
+    "/works/OL16996080W",
+    "Bloomsbury"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "ia": [
+    "oddfrostgiants00gaim_500"
+   ],
+   "seed": [
+    "/books/OL25572281M",
+    "/works/OL16996080W",
+    "/subjects/norse_gods",
+    "/subjects/animals",
+    "/subjects/fiction",
+    "/authors/OL7215123A"
+   ],
+   "oclc": [
+    "182663593"
+   ],
+   "contributor": [
+    "Buckingham, Mark"
+   ],
+   "author_key": [
+    "OL7215123A"
+   ],
+   "subject": [
+    "Norse Gods",
+    "Accessible book",
+    "Protected DAISY",
+    "Animals",
+    "Fiction"
+   ],
+   "title": "Odd and the frost giants",
+   "ia_collection_s": "printdisabled;librarygenesis",
+   "publish_date": [
+    "2008"
+   ],
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "London"
+   ],
+   "printdisabled_s": "OL25572281M",
+   "edition_count": 1,
+   "key": "/works/OL16996080W",
+   "public_scan_b": false,
+   "publisher": [
+    "Bloomsbury"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1406739016,
+   "publish_year": [
+    2008
+   ],
+   "first_publish_year": 2008
+  },
+  {
+   "title_suggest": "The annotated Sandman",
+   "edition_key": [
+    "OL25356305M"
+   ],
+   "isbn": [
+    "1401235662",
+    "9781401235666"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25356305M",
+    "1401235662",
+    "9781401235666",
+    "Neil Gaiman",
+    "Kieth, Sam",
+    "Klinger, Leslie S.",
+    "Dringenberg, Mike",
+    "OL53305A",
+    "The annotated Sandman",
+    "Neil Gaiman ; edited, with an introduction and notes by Leslie S. Klinger ; featuring characters created by Neil Gaiman, Sam Kieth and Mike Dringenberg",
+    "/works/OL16682250W",
+    "DC Comics",
+    "2012024706",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25356305M",
+    "/works/OL16682250W",
+    "/authors/OL53305A"
+   ],
+   "contributor": [
+    "Kieth, Sam",
+    "Klinger, Leslie S.",
+    "Dringenberg, Mike"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The annotated Sandman",
+   "publish_date": [
+    "2012"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16682250W",
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2012024706"
+   ],
+   "last_modified_i": 1348591819,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2012
+   ],
+   "first_publish_year": 2012
+  },
+  {
+   "title_suggest": "The sandman",
+   "edition_key": [
+    "OL25284435M"
+   ],
+   "isbn": [
+    "9781401234027",
+    "140123402X"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25284435M",
+    "9781401234027",
+    "140123402X",
+    "Neil Gaiman",
+    "Talbot, Bryan",
+    "778097455",
+    "OL53305A",
+    "worlds' end",
+    "The sandman",
+    "written by Neil Gaiman ; pencilled by Bryan Talbot, [et al.] ; inked by Dick Giordano [et al.] ; colored by Danny Vozzo ; color separations by Android Images, Digtal Chameleon ; lettered by Todd Klen",
+    "Supernatural",
+    "Comic books, strips",
+    "/works/OL16601061W",
+    "DC Comics",
+    "Worlds' end",
+    "2012372877",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25284435M",
+    "/works/OL16601061W",
+    "/subjects/supernatural",
+    "/subjects/comic_books_strips",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "778097455"
+   ],
+   "contributor": [
+    "Talbot, Bryan"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Supernatural",
+    "Comic books, strips"
+   ],
+   "title": "The sandman",
+   "publish_date": [
+    "2012"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16601061W",
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2012372877"
+   ],
+   "last_modified_i": 1348591819,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2012
+   ],
+   "first_publish_year": 2012
+  },
+  {
+   "title_suggest": "Okean na kraju puteljka",
+   "publisher": [
+    "Laguna"
+   ],
+   "isbn": [
+    "8652113262",
+    "978-86-521-1326-2"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25648584M"
+   ],
+   "last_modified_i": 1419536331,
+   "title": "Okean na kraju puteljka",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25648584M",
+   "publish_year": [
+    2013
+   ],
+   "seed": [
+    "/books/OL25648584M",
+    "/works/OL17078716W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2013,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL17078716W",
+   "text": [
+    "OL25648584M",
+    "8652113262",
+    "978-86-521-1326-2",
+    "Neil Gaiman",
+    "OL53305A",
+    "Okean na kraju puteljka",
+    "/works/OL17078716W",
+    "Laguna",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2013"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Sendmen",
+   "publisher": [
+    "Beli put"
+   ],
+   "subtitle": "Zemlja snova",
+   "has_fulltext": false,
+   "title": "Sendmen",
+   "edition_key": [
+    "OL25648594M"
+   ],
+   "last_modified_i": 1419549998,
+   "edition_count": 1,
+   "isbn": [
+    "9788685489037",
+    "8685489032"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25648594M",
+   "publish_year": [
+    2008
+   ],
+   "seed": [
+    "/books/OL25648594M",
+    "/works/OL17078721W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2008,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL17078721W",
+   "text": [
+    "OL25648594M",
+    "Zemlja snova",
+    "Neil Gaiman",
+    "9788685489037",
+    "8685489032",
+    "OL53305A",
+    "Sendmen",
+    "/works/OL17078721W",
+    "Beli put",
+    "Sendmen: Zemlja snova",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2008"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "SENDMEN",
+   "edition_key": [
+    "OL25648593M"
+   ],
+   "subtitle": "Lutkina ku\u0107a",
+   "has_fulltext": false,
+   "text": [
+    "OL25648593M",
+    "Lutkina ku\u0107a",
+    "Neil Gaiman",
+    "978-86-85489-24-2",
+    "8685489245",
+    "OL53305A",
+    "SENDMEN",
+    "/works/OL17078720W",
+    "Beli put",
+    "SENDMEN: Lutkina ku\u0107a",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25648593M",
+    "/works/OL17078720W",
+    "/authors/OL53305A"
+   ],
+   "isbn": [
+    "978-86-85489-24-2",
+    "8685489245"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "SENDMEN",
+   "publish_date": [
+    "2008"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Beograd"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL17078720W",
+   "publisher": [
+    "Beli put"
+   ],
+   "last_modified_i": 1419549872,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25648593M",
+   "publish_year": [
+    2008
+   ],
+   "first_publish_year": 2008
+  },
+  {
+   "title_suggest": "Sendmen",
+   "publisher": [
+    "Beli put"
+   ],
+   "subtitle": "Igram se tebe",
+   "has_fulltext": false,
+   "title": "Sendmen",
+   "edition_key": [
+    "OL25648595M"
+   ],
+   "last_modified_i": 1419550141,
+   "edition_count": 1,
+   "isbn": [
+    "978-86-86577-66-5",
+    "8686577660"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25648595M",
+   "publish_year": [
+    2008
+   ],
+   "seed": [
+    "/books/OL25648595M",
+    "/works/OL17078722W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2008,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL17078722W",
+   "text": [
+    "OL25648595M",
+    "Igram se tebe",
+    "Neil Gaiman",
+    "978-86-86577-66-5",
+    "8686577660",
+    "OL53305A",
+    "Sendmen",
+    "/works/OL17078722W",
+    "Beli put",
+    "Sendmen: Igram se tebe",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2008"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Telling Tales",
+   "edition_key": [
+    "OL8718315M"
+   ],
+   "isbn": [
+    "9781892058065",
+    "1892058065"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8718315M",
+    "9781892058065",
+    "1892058065",
+    "Neil Gaiman",
+    "OL53305A",
+    "Telling Tales",
+    "/works/OL679316W",
+    "Dreamhaven Bks & Art",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL8718315M",
+    "/works/OL679316W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Telling Tales",
+   "publish_date": [
+    "January 31, 2003"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL679316W",
+   "id_goodreads": [
+    "303725"
+   ],
+   "publisher": [
+    "Dreamhaven Bks & Art"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1281428349,
+   "id_librarything": [
+    "82580"
+   ],
+   "publish_year": [
+    2003
+   ],
+   "first_publish_year": 2003
+  },
+  {
+   "title_suggest": "Miracleman: the golden age",
+   "edition_key": [
+    "OL15084743M"
+   ],
+   "isbn": [
+    "9780586217542",
+    "0586217541"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL15084743M",
+    "9780586217542",
+    "0586217541",
+    "Neil Gaiman",
+    "Buckingham, Mark.",
+    "OL53305A",
+    "Miracleman: the golden age",
+    "Neil Gaiman ; illustrated by Mark Buckingham.",
+    "/works/OL679291W",
+    "Eclipse Graphic Novels",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL15084743M",
+    "/works/OL679291W",
+    "/authors/OL53305A"
+   ],
+   "id_librarything": [
+    "252989"
+   ],
+   "contributor": [
+    "Buckingham, Mark."
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Miracleman: the golden age",
+   "publish_date": [
+    "1993"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "London"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL679291W",
+   "id_goodreads": [
+    "4521463"
+   ],
+   "publisher": [
+    "Eclipse Graphic Novels"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1282098213,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    1993
+   ],
+   "first_publish_year": 1993
+  },
+  {
+   "title_suggest": "Crazy hair",
+   "edition_key": [
+    "OL16864917M"
+   ],
+   "isbn": [
+    "9780060579081",
+    "0060579080",
+    "0060579099",
+    "9780060579098"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL16864917M",
+    "9780060579081",
+    "0060579080",
+    "0060579099",
+    "9780060579098",
+    "Neil Gaiman",
+    "McKean, Dave, ill.",
+    "OL53305A",
+    "Crazy hair",
+    "by Neil Gaiman ; illustrated by Dave McKean.",
+    "Hair",
+    "Stories in rhyme",
+    "Humorous stories",
+    "Fiction",
+    "/works/OL679272W",
+    "HarperCollins",
+    "2008012791",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL16864917M",
+    "/works/OL679272W",
+    "/subjects/hair",
+    "/subjects/stories_in_rhyme",
+    "/subjects/humorous_stories",
+    "/subjects/fiction",
+    "/authors/OL53305A"
+   ],
+   "id_librarything": [
+    "5972756"
+   ],
+   "contributor": [
+    "McKean, Dave, ill."
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Hair",
+    "Stories in rhyme",
+    "Humorous stories",
+    "Fiction"
+   ],
+   "title": "Crazy hair",
+   "publish_date": [
+    "2009"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL679272W",
+   "id_goodreads": [
+    "4583488",
+    "6489579"
+   ],
+   "publisher": [
+    "HarperCollins"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2008012791"
+   ],
+   "last_modified_i": 1320445389,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2009
+   ],
+   "first_publish_year": 2009
+  },
+  {
+   "title_suggest": "Green Lantern/Superman",
+   "edition_key": [
+    "OL3671088M"
+   ],
+   "subtitle": "Legend of the Green Flame",
+   "has_fulltext": false,
+   "text": [
+    "OL3671088M",
+    "Legend of the Green Flame",
+    "Neil Gaiman",
+    "Allred, Mike",
+    "Hollingsworth, Matt.",
+    "Austin, Terry.",
+    "Klein, Todd.",
+    "45785419",
+    "OL53305A",
+    "Green Lantern/Superman",
+    "written by Neil Gaiman ; artwork by Michael D. Allred and Terry Austin, et al. ; colored by Matt Hollingsworth ; lettered by Todd Klein.",
+    "/works/OL679283W",
+    "DC Comics",
+    "Legend of the Green Flame",
+    "2002728275",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL3671088M",
+    "/works/OL679283W",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "45785419"
+   ],
+   "contributor": [
+    "Allred, Mike",
+    "Hollingsworth, Matt.",
+    "Austin, Terry.",
+    "Klein, Todd."
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Green Lantern/Superman",
+   "publish_date": [
+    "2000"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York, NY"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL679283W",
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2002728275"
+   ],
+   "last_modified_i": 1286954711,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2000
+   ],
+   "first_publish_year": 2000
+  },
+  {
+   "title_suggest": "The compleat Alice Cooper",
+   "edition_key": [
+    "OL22292621M"
+   ],
+   "subtitle": "incorporating the three acts of Alice Cooper - the last temptation",
+   "has_fulltext": false,
+   "text": [
+    "OL22292621M",
+    "incorporating the three acts of Alice Cooper - the last temptation",
+    "Neil Gaiman",
+    "Cooper, Alice.",
+    "Zulli, Michael.",
+    "40600890",
+    "9780785101192",
+    "0785101195",
+    "OL53305A",
+    "The compleat Alice Cooper",
+    "written by Neil Gaiman ; illustrated by Michael Zulli.",
+    "/works/OL679270W",
+    "Marvel Comics",
+    "The  compleat Alice Cooper",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL22292621M",
+    "/works/OL679270W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Cooper, Alice.",
+    "Zulli, Michael."
+   ],
+   "isbn": [
+    "9780785101192",
+    "0785101195"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The compleat Alice Cooper",
+   "publish_date": [
+    "1994"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL679270W",
+   "id_goodreads": [
+    "8739"
+   ],
+   "publisher": [
+    "Marvel Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1304120171,
+   "id_librarything": [
+    "467752"
+   ],
+   "publish_year": [
+    1994
+   ],
+   "first_publish_year": 1994,
+   "oclc": [
+    "40600890"
+   ]
+  },
+  {
+   "title_suggest": "Death, the high cost of living",
+   "edition_key": [
+    "OL1228905M"
+   ],
+   "cover_i": 3906933,
+   "isbn": [
+    "1563891336",
+    "9781563891328",
+    "1563891328",
+    "9781563891335"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL1228905M",
+    "1563891336",
+    "9781563891328",
+    "1563891328",
+    "9781563891335",
+    "Neil Gaiman",
+    "McKean, Dave.",
+    "Bachalo, Chris.",
+    "Buckingham, Mark.",
+    "30641579",
+    "OL53305A",
+    "Death, the high cost of living",
+    "[written by Neil Gaiman ; illustrated by Chris Bachalo, Mark Buckingham, Dave McKean, colored by Steve Oliff/Olyoptics, lettered by Todd Klein].",
+    "Death (Fictitious character : Gaiman)",
+    "Fiction",
+    "/works/OL679275W",
+    "DC Comics",
+    "Death.",
+    "94230212",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL1228905M",
+    "/works/OL679275W",
+    "/subjects/death_(fictitious_character_:_gaiman)",
+    "/subjects/fiction",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "McKean, Dave.",
+    "Bachalo, Chris.",
+    "Buckingham, Mark."
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Death (Fictitious character : Gaiman)",
+    "Fiction"
+   ],
+   "title": "Death, the high cost of living",
+   "publish_date": [
+    "1994"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York, NY"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL679275W",
+   "id_goodreads": [
+    "597624",
+    "138660"
+   ],
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "94230212"
+   ],
+   "last_modified_i": 1280541394,
+   "id_librarything": [
+    "5735"
+   ],
+   "cover_edition_key": "OL1228905M",
+   "publish_year": [
+    1994
+   ],
+   "first_publish_year": 1994,
+   "oclc": [
+    "30641579"
+   ]
+  },
+  {
+   "title_suggest": "The absolute sandman",
+   "edition_key": [
+    "OL18587196M"
+   ],
+   "isbn": [
+    "1401210821",
+    "9781401210823"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL18587196M",
+    "1401210821",
+    "9781401210823",
+    "Neil Gaiman",
+    "Kieth, Sam.",
+    "OL53305A",
+    "The absolute sandman",
+    "Neil Gaiman ; illustrated by Sam Kieth ... [et al.].",
+    "Sandman (Legendary character)",
+    "Comic books, strips",
+    "/works/OL679259W",
+    "DC Comics",
+    "The  absolute sandman.",
+    "Sandman.",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL18587196M",
+    "/works/OL679259W",
+    "/subjects/sandman_(legendary_character)",
+    "/subjects/comic_books_strips",
+    "/authors/OL53305A"
+   ],
+   "id_librarything": [
+    "2333448"
+   ],
+   "contributor": [
+    "Kieth, Sam."
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Sandman (Legendary character)",
+    "Comic books, strips"
+   ],
+   "title": "The absolute sandman",
+   "publish_date": [
+    "2006"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York, NY"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL679259W",
+   "id_goodreads": [
+    "23753"
+   ],
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1286954671,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2006
+   ],
+   "first_publish_year": 2006
+  },
+  {
+   "title_suggest": "Dream country",
+   "edition_key": [
+    "OL22291354M"
+   ],
+   "isbn": [
+    "9781563890161",
+    "156389016X"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL22291354M",
+    "9781563890161",
+    "156389016X",
+    "Neil Gaiman",
+    "Jones, Kelley.",
+    "OL53305A",
+    "Dream country",
+    "written by Neil Gaiman illustrated by Kelley Jones ... et al..",
+    "/works/OL679278W",
+    "DC Comics",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL22291354M",
+    "/works/OL679278W",
+    "/authors/OL53305A"
+   ],
+   "id_librarything": [
+    "6040"
+   ],
+   "contributor": [
+    "Jones, Kelley."
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Dream country",
+   "publish_date": [
+    "1991"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL679278W",
+   "id_goodreads": [
+    "298290"
+   ],
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1282187332,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    1991
+   ],
+   "first_publish_year": 1991
+  },
+  {
+   "title_suggest": "The facts in the departure of Miss Finch",
+   "edition_key": [
+    "OL18406759M"
+   ],
+   "isbn": [
+    "1593076673",
+    "9781593076672"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL18406759M",
+    "1593076673",
+    "9781593076672",
+    "Neil Gaiman",
+    "Zulli, Michael.",
+    "71285343",
+    "OL53305A",
+    "The facts in the departure of Miss Finch",
+    "Neil Gaiman ; illustrated by Michael Zulli.",
+    "Abduction",
+    "Fiction",
+    "Comic books, strips",
+    "/works/OL679280W",
+    "Publishers Group UK [distributor]",
+    "Dark Horse",
+    "The  facts in the departure of Miss Finch",
+    "Neil Richard Gaiman",
+    "London",
+    "England"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL18406759M",
+    "/works/OL679280W",
+    "/subjects/abduction",
+    "/subjects/comic_books_strips",
+    "/subjects/fiction",
+    "/subjects/place:england",
+    "/subjects/place:london",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "contributor": [
+    "Zulli, Michael."
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Abduction",
+    "Fiction",
+    "Comic books, strips"
+   ],
+   "title": "The facts in the departure of Miss Finch",
+   "publish_date": [
+    "2006"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Enfield",
+    "Milwaukie, Or"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL679280W",
+   "id_goodreads": [
+    "16794"
+   ],
+   "publisher": [
+    "Publishers Group UK [distributor]",
+    "Dark Horse"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1320448346,
+   "id_librarything": [
+    "1485966"
+   ],
+   "publish_year": [
+    2006
+   ],
+   "first_publish_year": 2006,
+   "place": [
+    "London",
+    "England"
+   ],
+   "oclc": [
+    "71285343"
+   ]
+  },
+  {
+   "title_suggest": "The doll's house",
+   "edition_key": [
+    "OL22501612M"
+   ],
+   "isbn": [
+    "0930289595",
+    "9780930289591"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL22501612M",
+    "0930289595",
+    "9780930289591",
+    "Neil Gaiman",
+    "Dringenberg, Mike.",
+    "Jones, Malcolm.",
+    "OL53305A",
+    "The doll's house",
+    "by Neil Gaiman illustrated by Mike Dringenberg, Malcolm Jones III.",
+    "/works/OL679277W",
+    "DC Comics",
+    "The  doll's house",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL22501612M",
+    "/works/OL679277W",
+    "/authors/OL53305A"
+   ],
+   "id_librarything": [
+    "6039"
+   ],
+   "contributor": [
+    "Dringenberg, Mike.",
+    "Jones, Malcolm."
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The doll's house",
+   "publish_date": [
+    "1995"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL679277W",
+   "id_goodreads": [
+    "92062"
+   ],
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1286954693,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    1995
+   ],
+   "first_publish_year": 1995
+  },
+  {
+   "title_suggest": "Blueberry girl",
+   "edition_key": [
+    "OL16478625M"
+   ],
+   "cover_i": 6387611,
+   "isbn": [
+    "0060838094",
+    "9780060838089",
+    "0060838086",
+    "9780060838096"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL16478625M",
+    "0060838094",
+    "9780060838089",
+    "0060838086",
+    "9780060838096",
+    "Neil Gaiman",
+    "Vess, Charles, ill.",
+    "OL53305A",
+    "Blueberry girl",
+    "written by Neil Gaiman ; illustrated by Charles Vess.",
+    "Stories in rhyme",
+    "Prayer",
+    "Girls",
+    "Fiction",
+    "/works/OL679268W",
+    "HarperCollinsPublishers",
+    "2006100441",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL16478625M",
+    "/works/OL679268W",
+    "/subjects/fiction",
+    "/subjects/stories_in_rhyme",
+    "/subjects/prayer",
+    "/subjects/girls",
+    "/authors/OL53305A"
+   ],
+   "id_librarything": [
+    "6573418"
+   ],
+   "contributor": [
+    "Vess, Charles, ill."
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Stories in rhyme",
+    "Prayer",
+    "Girls",
+    "Fiction"
+   ],
+   "title": "Blueberry girl",
+   "publish_date": [
+    "2008"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL679268W",
+   "id_goodreads": [
+    "1967067",
+    "1967068"
+   ],
+   "publisher": [
+    "HarperCollinsPublishers"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2006100441"
+   ],
+   "last_modified_i": 1320444785,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL16478625M",
+   "publish_year": [
+    2008
+   ],
+   "first_publish_year": 2008
+  },
+  {
+   "title_suggest": "Reckonings",
+   "edition_key": [
+    "OL10944003M"
+   ],
+   "cover_i": 2540300,
+   "isbn": [
+    "9780606330312",
+    "0606330313"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL10944003M",
+    "9780606330312",
+    "0606330313",
+    "Neil Gaiman",
+    "OL53305A",
+    "Reckonings",
+    "/works/OL679302W",
+    "Turtleback Books Distributed by Demco Media",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL10944003M",
+    "/works/OL679302W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Reckonings",
+   "publish_date": [
+    "December 27, 2004"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL679302W",
+   "id_goodreads": [
+    "1179131"
+   ],
+   "publisher": [
+    "Turtleback Books Distributed by Demco Media"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1341965864,
+   "id_librarything": [
+    "6107360"
+   ],
+   "cover_edition_key": "OL10944003M",
+   "publish_year": [
+    2004
+   ],
+   "first_publish_year": 2004
+  },
+  {
+   "title_suggest": "Smoke and Mirrors: Short",
+   "edition_key": [
+    "OL7584858M"
+   ],
+   "subtitle": "Fictions and Illustrations",
+   "has_fulltext": false,
+   "text": [
+    "OL7584858M",
+    "Fictions and Illustrations",
+    "Neil Gaiman",
+    "0606246959",
+    "9780606246958",
+    "OL53305A",
+    "Smoke and Mirrors: Short",
+    "/works/OL679311W",
+    "Turtleback Books Distributed by Demco Media",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL7584858M",
+    "/works/OL679311W",
+    "/authors/OL53305A"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "isbn": [
+    "0606246959",
+    "9780606246958"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Smoke and Mirrors: Short",
+   "publish_date": [
+    "July 2001"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL679311W",
+   "id_goodreads": [
+    "219543"
+   ],
+   "publisher": [
+    "Turtleback Books Distributed by Demco Media"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1281061701,
+   "id_librarything": [
+    "897403"
+   ],
+   "publish_year": [
+    2001
+   ],
+   "first_publish_year": 2001
+  },
+  {
+   "title_suggest": "Chu's Day",
+   "edition_key": [
+    "OL25435307M"
+   ],
+   "isbn": [
+    "0062017810",
+    "9780062017819"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25435307M",
+    "0062017810",
+    "9780062017819",
+    "Neil Gaiman",
+    "OL53305A",
+    "Chu's Day",
+    "/works/OL16810272W",
+    "Harper",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25435307M",
+    "/works/OL16810272W",
+    "/authors/OL53305A"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "Chu's Day",
+   "publish_date": [
+    "2013"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York, USA"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16810272W",
+   "publisher": [
+    "Harper"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1431726362,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25435307M",
+   "publish_year": [
+    2013
+   ],
+   "first_publish_year": 2013
+  },
+  {
+   "title_suggest": "La joven y el huso",
+   "edition_key": [
+    "OL25672223M"
+   ],
+   "isbn": [
+    "8498386519",
+    "978-84-9838-651-6"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25672223M",
+    "8498386519",
+    "978-84-9838-651-6",
+    "Neil Gaiman",
+    "OL53305A",
+    "La joven y el huso",
+    "/works/OL17101870W",
+    "Salamandra",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25672223M",
+    "/works/OL17101870W",
+    "/authors/OL53305A"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "La joven y el huso",
+   "publish_date": [
+    "2015"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Spain"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL17101870W",
+   "publisher": [
+    "Salamandra"
+   ],
+   "language": [
+    "spa"
+   ],
+   "last_modified_i": 1430205508,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25672223M",
+   "publish_year": [
+    2015
+   ],
+   "first_publish_year": 2015
+  },
+  {
+   "title_suggest": "Libro del cementerio. Segundo volumen",
+   "publish_place": [
+    "Spain"
+   ],
+   "isbn": [
+    "978-84-9918-919-2",
+    "8499189199"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "spa"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL25743876M"
+   ],
+   "last_modified_i": 1437388250,
+   "title": "Libro del cementerio. Segundo volumen",
+   "publisher": [
+    "Roca"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25743876M",
+   "seed": [
+    "/books/OL25743876M",
+    "/works/OL17173173W",
+    "/authors/OL53305A"
+   ],
+   "publish_date": [
+    "978-84-9918-919-2"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL17173173W",
+   "text": [
+    "OL25743876M",
+    "978-84-9918-919-2",
+    "8499189199",
+    "Neil Gaiman",
+    "OL53305A",
+    "Libro del cementerio. Segundo volumen",
+    "/works/OL17173173W",
+    "Roca",
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Coraline",
+   "edition_key": [
+    "OL25542880M"
+   ],
+   "isbn": [
+    "0747594066",
+    "9780747594062"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL25542880M",
+    "0747594066",
+    "9780747594062",
+    "Neil Gaiman",
+    "495330304",
+    "coralinegraphicn00gaim",
+    "OL53305A",
+    "Accessible book",
+    "Protected DAISY",
+    "Coraline",
+    "/works/OL16935169W",
+    "d'apre  s le roman de Neil Gaiman ; adapte  et illustre  par P. Craig Russel ; couleurs Lovern Kindzierski ; sce nario Todd Klein",
+    "Bloomsbury Children's books",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25542880M",
+    "/works/OL16935169W",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "495330304"
+   ],
+   "ia": [
+    "coralinegraphicn00gaim"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Accessible book",
+    "Protected DAISY"
+   ],
+   "title": "Coraline",
+   "ia_collection_s": "printdisabled;librarygenesis",
+   "printdisabled_s": "OL25542880M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "London"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16935169W",
+   "public_scan_b": false,
+   "publisher": [
+    "Bloomsbury Children's books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1406578227,
+   "first_publish_year": 2008,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2008
+   ],
+   "publish_date": [
+    "2008"
+   ]
+  },
+  {
+   "title_suggest": "El gal\u00e1ctico, pir\u00e1tico y alien\u00edgena viaje de mi padre",
+   "edition_key": [
+    "OL25440836M"
+   ],
+   "isbn": [
+    "978-84-9918-814-0",
+    "8499188141"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25440836M",
+    "978-84-9918-814-0",
+    "8499188141",
+    "Neil Gaiman",
+    "OL53305A",
+    "El gal\u00e1ctico, pir\u00e1tico y alien\u00edgena viaje de mi padre",
+    "/works/OL16814795W",
+    "Roca Editorial",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25440836M",
+    "/works/OL16814795W",
+    "/authors/OL53305A"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "El gal\u00e1ctico, pir\u00e1tico y alien\u00edgena viaje de mi padre",
+   "publish_date": [
+    "2013"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Spain"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16814795W",
+   "publisher": [
+    "Roca Editorial"
+   ],
+   "language": [
+    "spa"
+   ],
+   "last_modified_i": 1396598953,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25440836M",
+   "publish_year": [
+    2013
+   ],
+   "first_publish_year": 2013
+  },
+  {
+   "title_suggest": "Coraline",
+   "publish_place": [
+    "Barcelona, Espa\u00f1a"
+   ],
+   "isbn": [
+    "978-84-9838-237-2",
+    "8498382378"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25440587M"
+   ],
+   "last_modified_i": 1396428495,
+   "title": "Coraline",
+   "publisher": [
+    "Salamandra"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25440587M",
+   "publish_year": [
+    2013
+   ],
+   "seed": [
+    "/books/OL25440587M",
+    "/works/OL16814594W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2013,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16814594W",
+   "text": [
+    "OL25440587M",
+    "978-84-9838-237-2",
+    "8498382378",
+    "Neil Gaiman",
+    "OL53305A",
+    "Coraline",
+    "/works/OL16814594W",
+    "Salamandra",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2013"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The Silver Dream",
+   "publish_place": [
+    "New York, USA"
+   ],
+   "isbn": [
+    "0062067966",
+    "9780062067968"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25440275M"
+   ],
+   "last_modified_i": 1401233874,
+   "title": "The Silver Dream",
+   "publisher": [
+    "Harper Teen"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25440275M",
+   "publish_year": [
+    2013
+   ],
+   "seed": [
+    "/books/OL25440275M",
+    "/works/OL16814352W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2013,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16814352W",
+   "text": [
+    "OL25440275M",
+    "0062067966",
+    "9780062067968",
+    "Neil Gaiman",
+    "OL53305A",
+    "The Silver Dream",
+    "/works/OL16814352W",
+    "Harper Teen",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2013"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Unnatural Creatures",
+   "publish_place": [
+    "New York,USA"
+   ],
+   "isbn": [
+    "9780062236296",
+    "0062236296"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25436153M"
+   ],
+   "last_modified_i": 1392930422,
+   "title": "Unnatural Creatures",
+   "publisher": [
+    "Harper"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25436153M",
+   "publish_year": [
+    2013
+   ],
+   "seed": [
+    "/books/OL25436153M",
+    "/works/OL16810891W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2013,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16810891W",
+   "text": [
+    "OL25436153M",
+    "9780062236296",
+    "0062236296",
+    "Neil Gaiman",
+    "OL53305A",
+    "Stories Selected by Neil Gaiman",
+    "Unnatural Creatures",
+    "/works/OL16810891W",
+    "Harper",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2013"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "El cementerio sin l\u00e1pidas y otras historias negras",
+   "publisher": [
+    "Roca editorial"
+   ],
+   "isbn": [
+    "978-84-9918-82-0"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25442994M"
+   ],
+   "last_modified_i": 1399359006,
+   "title": "El cementerio sin l\u00e1pidas y otras historias negras",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25442994M",
+   "publish_year": [
+    2010
+   ],
+   "seed": [
+    "/books/OL25442994M",
+    "/works/OL16816611W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2010,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816611W",
+   "text": [
+    "OL25442994M",
+    "978-84-9918-82-0",
+    "Neil Gaiman",
+    "OL53305A",
+    "El cementerio sin l\u00e1pidas y otras historias negras",
+    "/works/OL16816611W",
+    "Roca editorial",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2010"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "D\u00edas de medianoche",
+   "publisher": [
+    "Norma"
+   ],
+   "isbn": [
+    "9788484312925",
+    "84-8431-292-5"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25443017M"
+   ],
+   "last_modified_i": 1399367401,
+   "title": "D\u00edas de medianoche",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25443017M",
+   "publish_year": [
+    2001
+   ],
+   "seed": [
+    "/books/OL25443017M",
+    "/works/OL16816631W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2001,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816631W",
+   "text": [
+    "OL25443017M",
+    "9788484312925",
+    "84-8431-292-5",
+    "Neil Gaiman",
+    "OL53305A",
+    "D\u00edas de medianoche",
+    "/works/OL16816631W",
+    "Norma",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2001"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Objetos fr\u00e1giles",
+   "publisher": [
+    "Roca"
+   ],
+   "isbn": [
+    "8496791858",
+    "978-84-96791-85-5"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25443002M"
+   ],
+   "last_modified_i": 1399361964,
+   "title": "Objetos fr\u00e1giles",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25443002M",
+   "publish_year": [
+    2008
+   ],
+   "seed": [
+    "/books/OL25443002M",
+    "/works/OL16816617W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2008,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816617W",
+   "text": [
+    "OL25443002M",
+    "8496791858",
+    "978-84-96791-85-5",
+    "Neil Gaiman",
+    "OL53305A",
+    "Objetos fr\u00e1giles",
+    "/works/OL16816617W",
+    "Roca",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2008"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "El libro del cementerio",
+   "publisher": [
+    "Roca"
+   ],
+   "isbn": [
+    "8499180302",
+    "978-84-9918-030-4"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25442997M"
+   ],
+   "last_modified_i": 1399359876,
+   "title": "El libro del cementerio",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25442997M",
+   "publish_year": [
+    2009
+   ],
+   "seed": [
+    "/books/OL25442997M",
+    "/works/OL16816614W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2009,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816614W",
+   "text": [
+    "OL25442997M",
+    "8499180302",
+    "978-84-9918-030-4",
+    "Neil Gaiman",
+    "OL53305A",
+    "El libro del cementerio",
+    "/works/OL16816614W",
+    "Roca",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2009"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Humo y espejos",
+   "publisher": [
+    "Norma"
+   ],
+   "isbn": [
+    "84-7904-969-3",
+    "9788479049690"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25443046M"
+   ],
+   "last_modified_i": 1399375499,
+   "title": "Humo y espejos",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25443046M",
+   "publish_year": [
+    1999
+   ],
+   "seed": [
+    "/books/OL25443046M",
+    "/works/OL16816655W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 1999,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816655W",
+   "text": [
+    "OL25443046M",
+    "84-7904-969-3",
+    "9788479049690",
+    "Neil Gaiman",
+    "OL53305A",
+    "Humo y espejos",
+    "/works/OL16816655W",
+    "Norma",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "1999"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Batman",
+   "publisher": [
+    "Planeta DeAgostini"
+   ],
+   "subtitle": "\u00bfqu\u00e9 le sucedi\u00f3 al cruzado enmascarado?",
+   "has_fulltext": false,
+   "title": "Batman",
+   "edition_key": [
+    "OL25443000M"
+   ],
+   "last_modified_i": 1399361269,
+   "edition_count": 1,
+   "isbn": [
+    "978-84-674-1152-2",
+    "846741152X"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25443000M",
+   "publish_year": [
+    2009
+   ],
+   "seed": [
+    "/books/OL25443000M",
+    "/works/OL16816615W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2009,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816615W",
+   "text": [
+    "OL25443000M",
+    "\u00bfqu\u00e9 le sucedi\u00f3 al cruzado enmascarado?",
+    "Neil Gaiman",
+    "978-84-674-1152-2",
+    "846741152X",
+    "OL53305A",
+    "Batman",
+    "/works/OL16816615W",
+    "Planeta DeAgostini",
+    "Batman : \u00bfqu\u00e9 le sucedi\u00f3 al cruzado enmascarado?",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2009"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Stardust",
+   "publisher": [
+    "Norma"
+   ],
+   "isbn": [
+    "8467450312",
+    "978-84-674-5031-6"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25443006M"
+   ],
+   "last_modified_i": 1399364131,
+   "title": "Stardust",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25443006M",
+   "publish_year": [
+    2007
+   ],
+   "seed": [
+    "/books/OL25443006M",
+    "/works/OL16816621W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2007,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816621W",
+   "text": [
+    "OL25443006M",
+    "8467450312",
+    "978-84-674-5031-6",
+    "Neil Gaiman",
+    "OL53305A",
+    ": un romance en los reinos de Faerie",
+    "Stardust",
+    "/works/OL16816621W",
+    "Norma",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2007"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The Sandman",
+   "publisher": [
+    "Norma"
+   ],
+   "subtitle": "La casa de mu\u00f1ecas",
+   "has_fulltext": false,
+   "title": "The Sandman",
+   "edition_key": [
+    "OL25443015M"
+   ],
+   "last_modified_i": 1399366700,
+   "edition_count": 1,
+   "isbn": [
+    "84-8431-232-1",
+    "9788484312321"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25443015M",
+   "publish_year": [
+    2003
+   ],
+   "seed": [
+    "/books/OL25443015M",
+    "/works/OL16816629W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2003,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816629W",
+   "text": [
+    "OL25443015M",
+    "La casa de mu\u00f1ecas",
+    "Neil Gaiman",
+    "84-8431-232-1",
+    "9788484312321",
+    "OL53305A",
+    "The Sandman",
+    "/works/OL16816629W",
+    "Norma",
+    "The Sandman : La casa de mu\u00f1ecas",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2003"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "El cementerio sin l\u00e1pidas y otras historias negras",
+   "publisher": [
+    "Roca"
+   ],
+   "isbn": [
+    "978-84-9918-82-0"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25442992M"
+   ],
+   "last_modified_i": 1399358297,
+   "title": "El cementerio sin l\u00e1pidas y otras historias negras",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25442992M",
+   "publish_year": [
+    2010
+   ],
+   "seed": [
+    "/books/OL25442992M",
+    "/works/OL16816609W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2010,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816609W",
+   "text": [
+    "OL25442992M",
+    "978-84-9918-82-0",
+    "Neil Gaiman",
+    "OL53305A",
+    "El cementerio sin l\u00e1pidas y otras historias negras",
+    "/works/OL16816609W",
+    "Roca",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2010"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The sandman",
+   "publisher": [
+    "Norma"
+   ],
+   "subtitle": "pa\u00eds de los sue\u00f1os",
+   "has_fulltext": false,
+   "title": "The sandman",
+   "edition_key": [
+    "OL25443016M"
+   ],
+   "last_modified_i": 1399367133,
+   "edition_count": 1,
+   "isbn": [
+    "84-8431-508-8",
+    "9788484315087"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25443016M",
+   "publish_year": [
+    2002
+   ],
+   "seed": [
+    "/books/OL25443016M",
+    "/works/OL16816630W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2002,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816630W",
+   "text": [
+    "OL25443016M",
+    "pa\u00eds de los sue\u00f1os",
+    "Neil Gaiman",
+    "84-8431-508-8",
+    "9788484315087",
+    "OL53305A",
+    "The sandman",
+    "/works/OL16816630W",
+    "Norma",
+    "The sandman : pa\u00eds de los sue\u00f1os",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2002"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Se\u00f1al y ruido",
+   "publisher": [
+    "Astiberri"
+   ],
+   "isbn": [
+    "849681548X",
+    "978-84-96815-48-3"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL25443001M"
+   ],
+   "last_modified_i": 1399361529,
+   "title": "Se\u00f1al y ruido",
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25443001M",
+   "publish_year": [
+    2008
+   ],
+   "seed": [
+    "/books/OL25443001M",
+    "/works/OL16816616W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2008,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL16816616W",
+   "text": [
+    "OL25443001M",
+    "849681548X",
+    "978-84-96815-48-3",
+    "Neil Gaiman",
+    "OL53305A",
+    "Se\u00f1al y ruido",
+    "/works/OL16816616W",
+    "Astiberri",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2008"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The Graveyard book",
+   "edition_key": [
+    "OL25630676M"
+   ],
+   "subtitle": "volume 1",
+   "has_fulltext": false,
+   "text": [
+    "OL25630676M",
+    "volume 1",
+    "Neil Gaiman",
+    "006219481X",
+    "9780062194817",
+    "OL53305A",
+    "Cemeteries",
+    "Graphic novels",
+    "Supernatural",
+    "Orphans",
+    "Dead",
+    "The Graveyard book",
+    "/works/OL17061398W",
+    "Illustrated by: Kevin Nowlan, P. Craig Russell, Tony Harris, Scott Hampton, Galen Showman, Jill Thompson, Stephen B. Scott",
+    "Harper",
+    "The Graveyard book: volume 1",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25630676M",
+    "/works/OL17061398W",
+    "/subjects/dead",
+    "/subjects/supernatural",
+    "/subjects/cemeteries",
+    "/subjects/orphans",
+    "/subjects/graphic_novels",
+    "/authors/OL53305A"
+   ],
+   "isbn": [
+    "006219481X",
+    "9780062194817"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Cemeteries",
+    "Graphic novels",
+    "Supernatural",
+    "Orphans",
+    "Dead"
+   ],
+   "title": "The Graveyard book",
+   "publish_date": [
+    "2014"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York, USA"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL17061398W",
+   "publisher": [
+    "Harper"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1413474557,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL25630676M",
+   "publish_year": [
+    2014
+   ],
+   "first_publish_year": 2014
+  },
+  {
+   "title_suggest": "The Sandman",
+   "edition_key": [
+    "OL25362172M"
+   ],
+   "isbn": [
+    "1401231233",
+    "9781401231231"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25362172M",
+    "1401231233",
+    "9781401231231",
+    "Neil Gaiman",
+    "Talbot, Bryan",
+    "Watkiss, John",
+    "Russell, P. Craig",
+    "McManus, Shawn",
+    "Eagleson, G. Duncan",
+    "Woch, Stan",
+    "Williams, Kent",
+    "Thompson, Jill, 1966-",
+    "OL53305A",
+    "Fables & reflections",
+    "The Sandman",
+    "/works/OL16689035W",
+    "Neil Gaiman, Bryan Talbot, Stan Woch, P. Craig Russell, Shawn McManus, John Watkiss, Jill Thompson, Duncan Eagleson, Kent Williams",
+    "DC Comics",
+    "Fables & reflections",
+    "Fables and reflections",
+    "2012025965",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL25362172M",
+    "/works/OL16689035W",
+    "/authors/OL53305A"
+   ],
+   "contributor": [
+    "Talbot, Bryan",
+    "Watkiss, John",
+    "Russell, P. Craig",
+    "McManus, Shawn",
+    "Eagleson, G. Duncan",
+    "Woch, Stan",
+    "Williams, Kent",
+    "Thompson, Jill, 1966-"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "title": "The Sandman",
+   "publish_date": [
+    "2012"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16689035W",
+   "publisher": [
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2012025965"
+   ],
+   "last_modified_i": 1348591819,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2012
+   ],
+   "first_publish_year": 2012
+  },
+  {
+   "title_suggest": "Sandman, Volume 4",
+   "publisher": [
+    "Vertigo"
+   ],
+   "subtitle": "Season of Mists",
+   "has_fulltext": false,
+   "title": "Sandman, Volume 4",
+   "edition_key": [
+    "OL24600537M"
+   ],
+   "last_modified_i": 1340790067,
+   "edition_count": 1,
+   "isbn": [
+    "9781401230425",
+    "1401230423"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24600537M",
+   "publish_year": [
+    2011
+   ],
+   "seed": [
+    "/books/OL24600537M",
+    "/works/OL15669568W",
+    "/authors/OL53305A"
+   ],
+   "first_publish_year": 2011,
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL15669568W",
+   "text": [
+    "OL24600537M",
+    "Season of Mists",
+    "Neil Gaiman",
+    "9781401230425",
+    "1401230423",
+    "OL53305A",
+    "Sandman, Volume 4",
+    "/works/OL15669568W",
+    "Vertigo",
+    "Sandman, Volume 4: Season of Mists",
+    "Neil Richard Gaiman"
+   ],
+   "publish_date": [
+    "2011"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Selections from Fragile Things, Volume 5",
+   "edition_key": [
+    "OL24311560M"
+   ],
+   "isbn": [
+    "9780061848964",
+    "0061848964",
+    "0061848972",
+    "9780061848971"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24311560M",
+    "9780061848964",
+    "0061848964",
+    "0061848972",
+    "9780061848971",
+    "Neil Gaiman",
+    "selectionsfromfr00gaim_794",
+    "OL53305A",
+    "Protected DAISY",
+    "Accessible book",
+    "OverDrive",
+    "Short Stories",
+    "Fiction",
+    "Selections from Fragile Things, Volume 5",
+    "/works/OL15179700W",
+    "HarperCollins",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24311560M",
+    "/works/OL15179700W",
+    "/subjects/fiction",
+    "/subjects/short_stories",
+    "/subjects/overdrive",
+    "/authors/OL53305A"
+   ],
+   "ia": [
+    "selectionsfromfr00gaim_794"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Protected DAISY",
+    "Accessible book",
+    "OverDrive",
+    "Short Stories",
+    "Fiction"
+   ],
+   "title": "Selections from Fragile Things, Volume 5",
+   "ia_collection_s": "printdisabled;librarygenesis",
+   "printdisabled_s": "OL24311560M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "overdrive_s": "D7947DB0-7D1B-4261-833F-729E0E9C1857",
+   "key": "/works/OL15179700W",
+   "public_scan_b": false,
+   "id_overdrive": [
+    "D7947DB0-7D1B-4261-833F-729E0E9C1857"
+   ],
+   "publisher": [
+    "HarperCollins"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1406631544,
+   "first_publish_year": 2009,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "publish_year": [
+    2009
+   ],
+   "publish_date": [
+    "2009"
+   ]
+  },
+  {
+   "title_suggest": "Selections from Fragile Things, Volume 2",
+   "edition_key": [
+    "OL24322421M"
+   ],
+   "isbn": [
+    "0061847143",
+    "9780061847141",
+    "0061847186",
+    "9780061847189"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24322421M",
+    "0061847143",
+    "9780061847141",
+    "0061847186",
+    "9780061847189",
+    "Neil Gaiman",
+    "selectionsfromfr00gaim_049",
+    "OL53305A",
+    "Protected DAISY",
+    "Accessible book",
+    "OverDrive",
+    "Short Stories",
+    "Fiction",
+    "Selections from Fragile Things, Volume 2",
+    "/works/OL15190196W",
+    "HarperCollins",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24322421M",
+    "/works/OL15190196W",
+    "/subjects/fiction",
+    "/subjects/short_stories",
+    "/subjects/overdrive",
+    "/authors/OL53305A"
+   ],
+   "ia": [
+    "selectionsfromfr00gaim_049"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Protected DAISY",
+    "Accessible book",
+    "OverDrive",
+    "Short Stories",
+    "Fiction"
+   ],
+   "title": "Selections from Fragile Things, Volume 2",
+   "ia_collection_s": "printdisabled;librarygenesis",
+   "printdisabled_s": "OL24322421M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "overdrive_s": "4A1B7435-9556-407B-A36B-E71F28D7A62A",
+   "key": "/works/OL15190196W",
+   "public_scan_b": false,
+   "id_overdrive": [
+    "4A1B7435-9556-407B-A36B-E71F28D7A62A"
+   ],
+   "publisher": [
+    "HarperCollins"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1396771796,
+   "first_publish_year": 2009,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24322421M",
+   "publish_year": [
+    2009
+   ],
+   "publish_date": [
+    "2009"
+   ]
+  },
+  {
+   "title_suggest": "Selections from Fragile Things, Volume 3",
+   "edition_key": [
+    "OL24313977M"
+   ],
+   "isbn": [
+    "0061849111",
+    "9780061849091",
+    "006184909X",
+    "9780061849114"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24313977M",
+    "0061849111",
+    "9780061849091",
+    "006184909X",
+    "9780061849114",
+    "Neil Gaiman",
+    "selectionsfromfr00gaim_171",
+    "OL53305A",
+    "Protected DAISY",
+    "Accessible book",
+    "OverDrive",
+    "Short Stories",
+    "Fiction",
+    "Selections from Fragile Things, Volume 3",
+    "/works/OL15182049W",
+    "HarperCollins",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24313977M",
+    "/works/OL15182049W",
+    "/subjects/fiction",
+    "/subjects/short_stories",
+    "/subjects/overdrive",
+    "/authors/OL53305A"
+   ],
+   "ia": [
+    "selectionsfromfr00gaim_171"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Protected DAISY",
+    "Accessible book",
+    "OverDrive",
+    "Short Stories",
+    "Fiction"
+   ],
+   "title": "Selections from Fragile Things, Volume 3",
+   "ia_collection_s": "printdisabled;librarygenesis",
+   "printdisabled_s": "OL24313977M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "overdrive_s": "979135EB-07E2-4F98-8C7F-8C1657590151",
+   "key": "/works/OL15182049W",
+   "public_scan_b": false,
+   "id_overdrive": [
+    "979135EB-07E2-4F98-8C7F-8C1657590151"
+   ],
+   "publisher": [
+    "HarperCollins"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1406616979,
+   "first_publish_year": 2009,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24313977M",
+   "publish_year": [
+    2009
+   ],
+   "publish_date": [
+    "2009"
+   ]
+  },
+  {
+   "title_suggest": "Selections from Fragile Things, Volume 6",
+   "edition_key": [
+    "OL24309441M"
+   ],
+   "isbn": [
+    "006184876X",
+    "0061848743",
+    "9780061848766",
+    "9780061848742"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24309441M",
+    "006184876X",
+    "0061848743",
+    "9780061848766",
+    "9780061848742",
+    "Neil Gaiman",
+    "selectionsfromfr00gaim",
+    "OL53305A",
+    "Protected DAISY",
+    "Accessible book",
+    "OverDrive",
+    "Short Stories",
+    "Fiction",
+    "Selections from Fragile Things, Volume 6",
+    "/works/OL15177628W",
+    "HarperCollins",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24309441M",
+    "/works/OL15177628W",
+    "/subjects/fiction",
+    "/subjects/short_stories",
+    "/subjects/overdrive",
+    "/authors/OL53305A"
+   ],
+   "ia": [
+    "selectionsfromfr00gaim"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Protected DAISY",
+    "Accessible book",
+    "OverDrive",
+    "Short Stories",
+    "Fiction"
+   ],
+   "title": "Selections from Fragile Things, Volume 6",
+   "ia_collection_s": "printdisabled;librarygenesis",
+   "printdisabled_s": "OL24309441M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "overdrive_s": "23893F32-9423-4D7C-80E3-5D3DF78D6650",
+   "key": "/works/OL15177628W",
+   "public_scan_b": false,
+   "id_overdrive": [
+    "23893F32-9423-4D7C-80E3-5D3DF78D6650"
+   ],
+   "publisher": [
+    "HarperCollins"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1406600794,
+   "first_publish_year": 2009,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24309441M",
+   "publish_year": [
+    2009
+   ],
+   "publish_date": [
+    "2009"
+   ]
+  },
+  {
+   "title_suggest": "Stories",
+   "edition_key": [
+    "OL24305068M"
+   ],
+   "isbn": [
+    "9780062008572",
+    "0062008579"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24305068M",
+    "9780062008572",
+    "0062008579",
+    "Neil Gaiman",
+    "652726149",
+    "storiesallnewtal00gaim",
+    "OL53305A",
+    "OverDrive",
+    "Protected DAISY",
+    "Accessible book",
+    "Literature",
+    "Fiction",
+    "Stories",
+    "/works/OL15173350W",
+    "HarperCollins",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24305068M",
+    "/works/OL15173350W",
+    "/subjects/fiction",
+    "/subjects/literature",
+    "/subjects/overdrive",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "652726149"
+   ],
+   "ia": [
+    "storiesallnewtal00gaim"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "OverDrive",
+    "Protected DAISY",
+    "Accessible book",
+    "Literature",
+    "Fiction"
+   ],
+   "title": "Stories",
+   "ia_collection_s": "printdisabled;librarygenesis",
+   "printdisabled_s": "OL24305068M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "overdrive_s": "0784B193-ED5F-4430-A7FC-2D1BA4CE6ABF",
+   "key": "/works/OL15173350W",
+   "public_scan_b": false,
+   "id_overdrive": [
+    "0784B193-ED5F-4430-A7FC-2D1BA4CE6ABF"
+   ],
+   "publisher": [
+    "HarperCollins"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1396759242,
+   "first_publish_year": 2010,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24305068M",
+   "publish_year": [
+    2010
+   ],
+   "publish_date": [
+    "2010"
+   ]
+  },
+  {
+   "title_suggest": "Selections from Fragile Things, Volume 4",
+   "edition_key": [
+    "OL24316709M"
+   ],
+   "isbn": [
+    "9780061847349",
+    "9780061847479",
+    "006184747X",
+    "0061847348"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24316709M",
+    "9780061847349",
+    "9780061847479",
+    "006184747X",
+    "0061847348",
+    "Neil Gaiman",
+    "selectionsfromfr00gaim_595",
+    "OL53305A",
+    "Protected DAISY",
+    "Accessible book",
+    "OverDrive",
+    "Short Stories",
+    "Fiction",
+    "Selections from Fragile Things, Volume 4",
+    "/works/OL15184693W",
+    "HarperCollins",
+    "Neil Richard Gaiman"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "seed": [
+    "/books/OL24316709M",
+    "/works/OL15184693W",
+    "/subjects/fiction",
+    "/subjects/short_stories",
+    "/subjects/overdrive",
+    "/authors/OL53305A"
+   ],
+   "ia": [
+    "selectionsfromfr00gaim_595"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "subject": [
+    "Protected DAISY",
+    "Accessible book",
+    "OverDrive",
+    "Short Stories",
+    "Fiction"
+   ],
+   "title": "Selections from Fragile Things, Volume 4",
+   "ia_collection_s": "printdisabled;librarygenesis",
+   "printdisabled_s": "OL24316709M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "overdrive_s": "DDBB4428-8638-4427-B2DE-A9128AD7B0B3",
+   "key": "/works/OL15184693W",
+   "public_scan_b": false,
+   "id_overdrive": [
+    "DDBB4428-8638-4427-B2DE-A9128AD7B0B3"
+   ],
+   "publisher": [
+    "HarperCollins"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1406631773,
+   "first_publish_year": 2009,
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL24316709M",
+   "publish_year": [
+    2009
+   ],
+   "publish_date": [
+    "2009"
+   ]
+  },
+  {
+   "title_suggest": "El d\u00eda que cambi\u00e9 a mi padre por dos peces de colores",
+   "has_fulltext": false,
+   "edition_count": 0,
+   "last_modified_i": 1286954702,
+   "title": "El d\u00eda que cambi\u00e9 a mi padre por dos peces de colores",
+   "subject": [
+    "Hermanos",
+    "Humorous stories",
+    "Brothers and sisters",
+    "Barter",
+    "Fathers",
+    "Fiction",
+    "Ficci\u00f3n juvenil",
+    "Padres",
+    "Cuentos humor\u00edsticos",
+    "Trocar"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "seed": [
+    "/works/OL15402491W",
+    "/subjects/fiction",
+    "/subjects/ficci\u00f3n_juvenil",
+    "/subjects/hermanos",
+    "/subjects/humorous_stories",
+    "/subjects/brothers_and_sisters",
+    "/subjects/barter",
+    "/subjects/fathers",
+    "/subjects/padres",
+    "/subjects/cuentos_humor\u00edsticos",
+    "/subjects/trocar",
+    "/authors/OL53305A"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL15402491W",
+   "text": [
+    "Neil Gaiman",
+    "OL53305A",
+    "El d\u00eda que cambi\u00e9 a mi padre por dos peces de colores",
+    "Hermanos",
+    "Humorous stories",
+    "Brothers and sisters",
+    "Barter",
+    "Fathers",
+    "Fiction",
+    "Ficci\u00f3n juvenil",
+    "Padres",
+    "Cuentos humor\u00edsticos",
+    "Trocar",
+    "/works/OL15402491W",
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Khrupkie veshchi",
+   "has_fulltext": false,
+   "edition_count": 0,
+   "last_modified_i": 1286954712,
+   "title": "Khrupkie veshchi",
+   "subject": [
+    "Short stories"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "seed": [
+    "/works/OL15402492W",
+    "/subjects/short_stories",
+    "/authors/OL53305A"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL15402492W",
+   "text": [
+    "Neil Gaiman",
+    "OL53305A",
+    "Khrupkie veshchi",
+    "Short stories",
+    "/works/OL15402492W",
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Meiguo zhong shen",
+   "has_fulltext": false,
+   "edition_count": 0,
+   "last_modified_i": 1286954728,
+   "title": "Meiguo zhong shen",
+   "subject": [
+    "Spiritual warfare",
+    "Widowers",
+    "Ex-convicts",
+    "Fiction",
+    "American National characteristics",
+    "Bodyguards"
+   ],
+   "author_alternative_name": [
+    "Neil Richard Gaiman"
+   ],
+   "seed": [
+    "/works/OL15402493W",
+    "/subjects/fiction",
+    "/subjects/spiritual_warfare",
+    "/subjects/widowers",
+    "/subjects/american_national_characteristics",
+    "/subjects/bodyguards",
+    "/subjects/ex-convicts",
+    "/authors/OL53305A"
+   ],
+   "author_name": [
+    "Neil Gaiman"
+   ],
+   "key": "/works/OL15402493W",
+   "text": [
+    "Neil Gaiman",
+    "OL53305A",
+    "Meiguo zhong shen",
+    "Spiritual warfare",
+    "Widowers",
+    "Ex-convicts",
+    "Fiction",
+    "American National characteristics",
+    "Bodyguards",
+    "/works/OL15402493W",
+    "Neil Richard Gaiman"
+   ],
+   "author_key": [
+    "OL53305A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Neil Gaiman's The Sandman and Joseph Campbell",
+   "edition_key": [
+    "OL8822908M",
+    "OL18927046M",
+    "OL7978644M"
+   ],
+   "cover_i": 1532159,
+   "isbn": [
+    "159224212X",
+    "9781592242122",
+    "9781587157899",
+    "9780809571680",
+    "1587157896",
+    "0809571684"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8822908M",
+    "OL18927046M",
+    "OL7978644M",
+    "159224212X",
+    "9781592242122",
+    "9781587157899",
+    "9780809571680",
+    "1587157896",
+    "0809571684",
+    "Stephen Rauch",
+    "82671993",
+    "52384065",
+    "OL2827596A",
+    "In Search of the Modern Myth",
+    "In Search Of The Modern Myth (Sandman (Graphic Novels))",
+    "Neil Gaiman's The Sandman and Joseph Campbell",
+    "Stephen Rauch.",
+    "/works/OL8470591W",
+    "Wildside Press",
+    "Neil Gaiman's The Sandman And Joseph Campbell",
+    "Neil Gaiman",
+    "Joseph Campbell (1904-1987)"
+   ],
+   "author_name": [
+    "Stephen Rauch"
+   ],
+   "seed": [
+    "/books/OL8822908M",
+    "/books/OL18927046M",
+    "/books/OL7978644M",
+    "/works/OL8470591W",
+    "/subjects/person:joseph_campbell_(1904-1987)",
+    "/subjects/person:neil_gaiman",
+    "/authors/OL2827596A"
+   ],
+   "oclc": [
+    "82671993",
+    "52384065"
+   ],
+   "author_key": [
+    "OL2827596A"
+   ],
+   "title": "Neil Gaiman's The Sandman and Joseph Campbell",
+   "publish_date": [
+    "June 1, 2003",
+    "2003",
+    "May 1, 2007"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Holicong, PA"
+   ],
+   "edition_count": 3,
+   "key": "/works/OL8470591W",
+   "id_goodreads": [
+    "597628",
+    "161199",
+    "22342"
+   ],
+   "publisher": [
+    "Wildside Press"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1304097989,
+   "id_librarything": [
+    "205116"
+   ],
+   "cover_edition_key": "OL7978644M",
+   "person": [
+    "Neil Gaiman",
+    "Joseph Campbell (1904-1987)"
+   ],
+   "publish_year": [
+    2003,
+    2007
+   ],
+   "first_publish_year": 2003
+  },
+  {
+   "title_suggest": "Good Omens",
+   "edition_key": [
+    "OL22628222M",
+    "OL1888869M",
+    "OL7814940M",
+    "OL7503394M",
+    "OL7677672M",
+    "OL7523970M",
+    "OL9860497M",
+    "OL3954463M",
+    "OL7283143M",
+    "OL9242903M",
+    "OL7283145M",
+    "OL7288198M",
+    "OL9237850M",
+    "OL9237852M",
+    "OL9237851M",
+    "OL7283144M",
+    "OL24659743M",
+    "OL24084500M"
+   ],
+   "cover_i": 366178,
+   "subtitle": "The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+   "has_fulltext": true,
+   "id_librarything": [
+    "5794"
+   ],
+   "text": [
+    "OL22628222M",
+    "OL1888869M",
+    "OL7814940M",
+    "OL7503394M",
+    "OL7677672M",
+    "OL7523970M",
+    "OL9860497M",
+    "OL3954463M",
+    "OL7283143M",
+    "OL9242903M",
+    "OL7283145M",
+    "OL7288198M",
+    "OL9237850M",
+    "OL9237852M",
+    "OL9237851M",
+    "OL7283144M",
+    "OL24659743M",
+    "OL24084500M",
+    "The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+    "Terry Pratchett",
+    "Neil Gaiman",
+    "Pratchett, Terry.",
+    "Gaiman, Neil.",
+    "311782757",
+    "310156184",
+    "465224684",
+    "goodomens00neil_1",
+    "goodomens00neil_0",
+    "goodomens00neil",
+    "goodomens00gaim",
+    "goodomensniceacc00gaim",
+    "9780060853969",
+    "9780425132159",
+    "9780552159845",
+    "9780606311779",
+    "0060853972",
+    "0606311777",
+    "9780894808531",
+    "9780061967085",
+    "9780060853983",
+    "0441003257",
+    "0061967084",
+    "0552159840",
+    "9780441003259",
+    "0517126648",
+    "9780575048003",
+    "9780552137034",
+    "9780517126646",
+    "0425132153",
+    "0060853964",
+    "9780060853976",
+    "0061121304",
+    "057504800X",
+    "9780061121302",
+    "0552137030",
+    "0441008615",
+    "0894808532",
+    "0060853980",
+    "9780441008612",
+    "OL25712A",
+    "OL53305A",
+    "End of the world",
+    "Humorous",
+    "Fantasy fiction",
+    "Accessible book",
+    "Fiction",
+    "Prophecies",
+    "Humorous fiction",
+    "Witches",
+    "Protected DAISY",
+    "Occult fiction",
+    "Apocalypse",
+    "the nice and accurate prophecies of Agnes Nutter, witch : a novel",
+    "Good Omens",
+    "/works/OL453936W",
+    "Neil Gaiman and Terry Pratchett.",
+    "Terry Pratchett and Neil Gaiman.",
+    "Workman Pub.",
+    "Ace",
+    "HarperLargePrint",
+    "Harper Paperbacks",
+    "Ace Books",
+    "Turtleback Books Distributed by Demco Media",
+    "HarperTorch",
+    "Harper Audio",
+    "Berkley Trade",
+    "Random House Value Publishing",
+    "Corgi",
+    "Gollancz",
+    "William Morrow",
+    "Good omens",
+    "90050362",
+    "2001053748",
+    "Terri Pratchett",
+    "Pratchett.",
+    "Terence David John Pratchett",
+    "Neil Richard Gaiman",
+    "Current theories on the creation of the Universe state that, if it was created at all and didn't just start, as it were, unofficially, it came into being between ten and twenty thousand million years ago.",
+    "It was a nice day.",
+    "London",
+    "Manchester",
+    "Slough",
+    "Lower Tadfield"
+   ],
+   "author_name": [
+    "Terry Pratchett",
+    "Neil Gaiman"
+   ],
+   "contributor": [
+    "Pratchett, Terry.",
+    "Gaiman, Neil."
+   ],
+   "ia_loaded_id": [
+    "goodomens00gaim"
+   ],
+   "seed": [
+    "/books/OL22628222M",
+    "/books/OL1888869M",
+    "/books/OL7814940M",
+    "/books/OL7503394M",
+    "/books/OL7677672M",
+    "/books/OL7523970M",
+    "/books/OL9860497M",
+    "/books/OL3954463M",
+    "/books/OL7283143M",
+    "/books/OL9242903M",
+    "/books/OL7283145M",
+    "/books/OL7288198M",
+    "/books/OL9237850M",
+    "/books/OL9237852M",
+    "/books/OL9237851M",
+    "/books/OL7283144M",
+    "/books/OL24659743M",
+    "/books/OL24084500M",
+    "/works/OL453936W",
+    "/subjects/fiction",
+    "/subjects/prophecies",
+    "/subjects/witches",
+    "/subjects/end_of_the_world",
+    "/subjects/occult_fiction",
+    "/subjects/fantasy_fiction",
+    "/subjects/apocalypse",
+    "/subjects/humorous_fiction",
+    "/subjects/humorous",
+    "/subjects/protected_daisy",
+    "/subjects/place:lower_tadfield",
+    "/subjects/place:slough",
+    "/subjects/place:manchester",
+    "/subjects/place:london",
+    "/authors/OL25712A",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "311782757",
+    "310156184",
+    "465224684"
+   ],
+   "ia": [
+    "goodomens00neil_1",
+    "goodomens00neil_0",
+    "goodomens00neil",
+    "goodomens00gaim",
+    "goodomensniceacc00gaim"
+   ],
+   "isbn": [
+    "9780060853969",
+    "9780425132159",
+    "9780552159845",
+    "9780606311779",
+    "0060853972",
+    "0606311777",
+    "9780894808531",
+    "9780061967085",
+    "9780060853983",
+    "0441003257",
+    "0061967084",
+    "0552159840",
+    "9780441003259",
+    "0517126648",
+    "9780575048003",
+    "9780552137034",
+    "9780517126646",
+    "0425132153",
+    "0060853964",
+    "9780060853976",
+    "0061121304",
+    "057504800X",
+    "9780061121302",
+    "0552137030",
+    "0441008615",
+    "0894808532",
+    "0060853980",
+    "9780441008612"
+   ],
+   "author_key": [
+    "OL25712A",
+    "OL53305A"
+   ],
+   "subject": [
+    "End of the world",
+    "Humorous",
+    "Fantasy fiction",
+    "Accessible book",
+    "Fiction",
+    "Prophecies",
+    "Humorous fiction",
+    "Witches",
+    "Protected DAISY",
+    "Occult fiction",
+    "Apocalypse"
+   ],
+   "title": "Good Omens",
+   "lending_identifier_s": "goodomens00gaim",
+   "ia_collection_s": "printdisabled;china;internetarchivebooks;librarygenesis;browserlending;inlibrary",
+   "publish_date": [
+    "1991",
+    "1990",
+    "May 1996",
+    "November 28, 2006",
+    "August 7, 2007",
+    "April 1, 2006",
+    "June 22, 2010",
+    "February 28, 2006",
+    "2001",
+    "July 3, 1994",
+    "March 1, 1992",
+    "2009",
+    "May 1, 1996"
+   ],
+   "type": "work",
+   "ebook_count_i": 5,
+   "publish_place": [
+    "New York",
+    "London"
+   ],
+   "ia_box_id": [
+    "IA180401",
+    "IA176501",
+    "IA179001",
+    "IA170601"
+   ],
+   "edition_count": 18,
+   "first_publish_year": 1990,
+   "overdrive_s": "5A9ED96B-E3A1-4207-8C63-8B75BD9B39E9",
+   "key": "/works/OL453936W",
+   "id_goodreads": [
+    "474059",
+    "2871330",
+    "12070",
+    "960659",
+    "229318",
+    "960657",
+    "177978",
+    "1041642",
+    "386282",
+    "960658",
+    "1001564",
+    "12067",
+    "9809133"
+   ],
+   "public_scan_b": false,
+   "id_overdrive": [
+    "5A9ED96B-E3A1-4207-8C63-8B75BD9B39E9"
+   ],
+   "publisher": [
+    "Workman Pub.",
+    "Ace",
+    "HarperLargePrint",
+    "Harper Paperbacks",
+    "Ace Books",
+    "Turtleback Books Distributed by Demco Media",
+    "HarperTorch",
+    "Harper Audio",
+    "Berkley Trade",
+    "Random House Value Publishing",
+    "Corgi",
+    "Gollancz",
+    "William Morrow"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "90050362",
+    "2001053748"
+   ],
+   "last_modified_i": 1406651247,
+   "lending_edition_s": "OL3954463M",
+   "author_alternative_name": [
+    "Terri Pratchett",
+    "Pratchett.",
+    "Terence David John Pratchett",
+    "Neil Richard Gaiman"
+   ],
+   "cover_edition_key": "OL7814940M",
+   "first_sentence": [
+    "Current theories on the creation of the Universe state that, if it was created at all and didn't just start, as it were, unofficially, it came into being between ten and twenty thousand million years ago.",
+    "It was a nice day."
+   ],
+   "publish_year": [
+    1991,
+    1990,
+    1992,
+    1994,
+    1996,
+    2001,
+    2006,
+    2007,
+    2009,
+    2010
+   ],
+   "printdisabled_s": "OL9237850M;OL3954463M;OL7523970M;OL7283143M;OL7503394M",
+   "place": [
+    "London",
+    "Manchester",
+    "Slough",
+    "Lower Tadfield"
+   ]
+  },
+  {
+   "title_suggest": "Batman",
+   "edition_key": [
+    "OL18353535M",
+    "OL15608449M",
+    "OL22380754M",
+    "OL7536401M",
+    "OL22831464M",
+    "OL8645133M",
+    "OL8645422M",
+    "OL11912939M",
+    "OL9782283M",
+    "OL8367518M",
+    "OL25442998M",
+    "OL25442999M",
+    "OL23730055M",
+    "OL24087495M"
+   ],
+   "cover_i": 2996338,
+   "subtitle": "the dark knight returns",
+   "has_fulltext": true,
+   "text": [
+    "OL18353535M",
+    "OL15608449M",
+    "OL22380754M",
+    "OL7536401M",
+    "OL22831464M",
+    "OL8645133M",
+    "OL8645422M",
+    "OL11912939M",
+    "OL9782283M",
+    "OL8367518M",
+    "OL25442998M",
+    "OL25442999M",
+    "OL23730055M",
+    "OL24087495M",
+    "the dark knight returns",
+    "Frank Miller",
+    "Neil Gaiman",
+    "Hoffman, Mike.",
+    "Lynn Varley (Colorist)",
+    "Wagner, Matt.",
+    "Joe Kubert (Illustrator)",
+    "Varley, Lynn E.",
+    "Bisley, Simon.",
+    "David Mazzucchelli (Illustrator)",
+    "Nowlan, Kevin.",
+    "Williams, Scott.",
+    "Janson, Klaus.",
+    "Kubert, Andy.",
+    "Buckingham, Mark.",
+    "Klaus Janson (Illustrator)",
+    "Jim Lee (Illustrator)",
+    "Kane, Bob.",
+    "Varley, Lynn.",
+    "Costanza, John.",
+    "15058354",
+    "60513998",
+    "batmanyearone00mill",
+    "9781401215897",
+    "1563893428",
+    "978-84-674-1152-2",
+    "0907610900",
+    "1401223036",
+    "9780446385053",
+    "9781401227241",
+    "1401207529",
+    "1563898446",
+    "0930289153",
+    "9781401207526",
+    "9781852867881",
+    "1401227244",
+    "1401215890",
+    "9780907610908",
+    "9780930289157",
+    "1852867884",
+    "1845761014",
+    "9781845761011",
+    "846741152X",
+    "0446385050",
+    "9781401223038",
+    "9781563893421",
+    "9781563898440",
+    "OL2598986A",
+    "OL53305A",
+    "Accessible book",
+    "Graphic novels",
+    "Comic books, strips",
+    "New York Times bestseller",
+    "Protected DAISY",
+    "nyt:paperback_graphic_books=2012-01-07",
+    "Batman (Fictitious character)",
+    "with other tales of the Dark Knight",
+    "Year One",
+    "Black & White, Vol. 1",
+    "The Dark Knight Returns",
+    "Whatever Happened to the Caped Crusader?",
+    "the Dark Knight returns",
+    "The Dark Knight Strikes Again",
+    "Batman",
+    "/works/OL253475W",
+    "writtenand drawn by Frank Miller, with Klaus Janson & Lynn Varley.",
+    "Frank Miller, story and pencils ; Klaus Janson, Frank Miller, inks ; Lynn Varley, colors and visual effects ; John Costanza, letter ; based on characters created by Bob Kane.",
+    "Frank Miller, story and pencils ; Klaus Janson, Frank Miller, inks ; Lynn Varley, colors and visual effects ; John Costanza, letters ; [introduction by Alan Moore].",
+    "writer, Neil Gaiman ; pencils, Andy Kubert ; inks, Scott Williams ; colors, Alex Sinclair ; letters, Jared K. Fletcher.",
+    "FrankMiller, story and pencils ; Klaus Janson, Frank Miller, inks ; Lynn Varley, colors and visual effects ; John Costanza, letters ; based on characters created by Bob Kane.",
+    "Planeta DeAgostini",
+    "Warner Books",
+    "Titan",
+    "Warner Books> C/o Little Br",
+    "Titan Books",
+    "DC Comics",
+    "Whatever happened to the Caped Crusader",
+    "Batman ",
+    "Batman.",
+    "Batman (Comic strip)",
+    "2009455882",
+    "Miller, Frank",
+    "Neil Richard Gaiman",
+    "FRANK MILLER",
+    "frank miller"
+   ],
+   "author_name": [
+    "Frank Miller",
+    "Neil Gaiman"
+   ],
+   "contributor": [
+    "Hoffman, Mike.",
+    "Lynn Varley (Colorist)",
+    "Wagner, Matt.",
+    "Joe Kubert (Illustrator)",
+    "Varley, Lynn E.",
+    "Bisley, Simon.",
+    "David Mazzucchelli (Illustrator)",
+    "Nowlan, Kevin.",
+    "Williams, Scott.",
+    "Janson, Klaus.",
+    "Kubert, Andy.",
+    "Buckingham, Mark.",
+    "Klaus Janson (Illustrator)",
+    "Jim Lee (Illustrator)",
+    "Kane, Bob.",
+    "Varley, Lynn.",
+    "Costanza, John."
+   ],
+   "seed": [
+    "/books/OL18353535M",
+    "/books/OL15608449M",
+    "/books/OL22380754M",
+    "/books/OL7536401M",
+    "/books/OL22831464M",
+    "/books/OL8645133M",
+    "/books/OL8645422M",
+    "/books/OL11912939M",
+    "/books/OL9782283M",
+    "/books/OL8367518M",
+    "/books/OL25442998M",
+    "/books/OL25442999M",
+    "/books/OL23730055M",
+    "/books/OL24087495M",
+    "/works/OL253475W",
+    "/subjects/batman_(fictitious_character)",
+    "/subjects/comic_books_strips",
+    "/subjects/new_york_times_bestseller",
+    "/subjects/nyt:paperback_graphic_books=2012-01-07",
+    "/subjects/graphic_novels",
+    "/authors/OL2598986A",
+    "/authors/OL53305A"
+   ],
+   "oclc": [
+    "15058354",
+    "60513998"
+   ],
+   "ia": [
+    "batmanyearone00mill"
+   ],
+   "isbn": [
+    "9781401215897",
+    "1563893428",
+    "978-84-674-1152-2",
+    "0907610900",
+    "1401223036",
+    "9780446385053",
+    "9781401227241",
+    "1401207529",
+    "1563898446",
+    "0930289153",
+    "9781401207526",
+    "9781852867881",
+    "1401227244",
+    "1401215890",
+    "9780907610908",
+    "9780930289157",
+    "1852867884",
+    "1845761014",
+    "9781845761011",
+    "846741152X",
+    "0446385050",
+    "9781401223038",
+    "9781563893421",
+    "9781563898440"
+   ],
+   "author_key": [
+    "OL2598986A",
+    "OL53305A"
+   ],
+   "subject": [
+    "Accessible book",
+    "Graphic novels",
+    "Comic books, strips",
+    "New York Times bestseller",
+    "Protected DAISY",
+    "nyt:paperback_graphic_books=2012-01-07",
+    "Batman (Fictitious character)"
+   ],
+   "title": "Batman",
+   "ia_collection_s": "printdisabled;librarygenesis",
+   "printdisabled_s": "OL8367518M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "London",
+    "New York",
+    "New York, NY"
+   ],
+   "id_librarything": [
+    "74608",
+    "66228",
+    "8465953",
+    "4030228",
+    "84653"
+   ],
+   "edition_count": 14,
+   "key": "/works/OL253475W",
+   "id_goodreads": [
+    "707741",
+    "1117136",
+    "803142",
+    "1207771",
+    "1740329",
+    "59980",
+    "656975",
+    "1213255",
+    "57948"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Planeta DeAgostini",
+    "Warner Books",
+    "Titan",
+    "Warner Books> C/o Little Br",
+    "Titan Books",
+    "DC Comics"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2009455882"
+   ],
+   "last_modified_i": 1406582543,
+   "first_publish_year": 1986,
+   "author_alternative_name": [
+    "Miller, Frank",
+    "Neil Richard Gaiman",
+    "FRANK MILLER",
+    "frank miller"
+   ],
+   "cover_edition_key": "OL11912939M",
+   "publish_year": [
+    1986,
+    1997,
+    1996,
+    2002,
+    2007,
+    2005,
+    2009,
+    2010
+   ],
+   "publish_date": [
+    "1986",
+    "September 26, 2007",
+    "1996",
+    "2005",
+    "July 13, 2010",
+    "November 1986",
+    "November 1, 2002",
+    "2009",
+    "January 10, 2007",
+    "May 1, 1997"
+   ]
+  }
+ ]
+}

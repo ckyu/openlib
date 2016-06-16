@@ -1,0 +1,751 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"boo",
+				"book_api"
+			],
+			[
+				"pub",
+				"publish_date"
+			],
+			[
+				"fet",
+				"fetch_multiple_search_pages"
+			],
+			[
+				"end",
+				"endPage"
+			],
+			[
+				"star",
+				"startPage"
+			],
+			[
+				"result",
+				"result_at_100"
+			],
+			[
+				"parse",
+				"parsed_response"
+			],
+			[
+				"sear",
+				"search_query"
+			],
+			[
+				"lett",
+				"letter_hash_table"
+			],
+			[
+				"json",
+				"json_data"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"for",
+				"forwarding_url"
+			],
+			[
+				"edit",
+				"edit_user_path"
+			],
+			[
+				"remember",
+				"remember_token"
+			],
+			[
+				"remem",
+				"remember_token"
+			],
+			[
+				"remme",
+				"remember_digest"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"passow",
+				"password_confirmation"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"dup",
+				"duplicate_user"
+			],
+			[
+				"invali",
+				"invalid_add"
+			],
+			[
+				"invalid",
+				"invalid_addresses"
+			],
+			[
+				"valid_ad",
+				"valid_add"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ex",
+				"extract_name"
+			],
+			[
+				"the",
+				"therubyracer"
+			],
+			[
+				"image",
+				"imageUrl"
+			],
+			[
+				"phone",
+				"phonecatControllers"
+			],
+			[
+				"phonecat",
+				"phonecatApp"
+			],
+			[
+				"articl",
+				"article_params"
+			],
+			[
+				"arti",
+				"article_params"
+			],
+			[
+				"PHRASE",
+				"PHRASE_FIRST"
+			],
+			[
+				"class",
+				"class_names"
+			],
+			[
+				"craft",
+				"craft_params"
+			],
+			[
+				"rand",
+				"rand_words"
+			],
+			[
+				"WORD",
+				"WORD_URL"
+			],
+			[
+				"msg",
+				"msg-sent-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/request.rb",
+			"settings":
+			{
+				"buffer_size": 2057,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/china/Development/marty/shit my markov generator says",
+			"settings":
+			{
+				"buffer_size": 5617,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/author.rb",
+			"settings":
+			{
+				"buffer_size": 250,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.rb",
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rspec/client.rb",
+			"settings":
+			{
+				"buffer_size": 2498,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 243.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 391.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"clear",
+			"vagrant ssh",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/china/Development/rbprojects/OpenLibrary",
+		"/home/china/Development/rbprojects/OpenLibrary/lib",
+		"/home/china/Development/rbprojects/OpenLibrary/rspec"
+	],
+	"file_history":
+	[
+		"/home/china/Development/marty/zen.txt",
+		"/home/china/Development/marty/prophet.txt",
+		"/home/china/Development/marty/proverbs.txt",
+		"/home/china/Development/rbprojects/OpenLibrary/lib/book.rb",
+		"/home/china/Development/marty/fortune-cookie.txt",
+		"/home/china/Development/marty/shit my markov generator says",
+		"/home/china/Development/marty/markov.py",
+		"/home/china/Development/marty/artofwar.txt",
+		"/home/china/Development/marty/gen.py",
+		"/home/china/Development/marty/wisdom_of_the_east.txt",
+		"/home/china/Development/marty/a_philosophy_of_life.txt",
+		"/home/china/Development/marty/utilitarianism.txt",
+		"/home/china/Development/marty/funny-outputs.txt",
+		"/home/china/Development/marty/pride.txt",
+		"/mnt/780DF5612D0A8B8E/Development/gif.jsx",
+		"/mnt/780DF5612D0A8B8E/Development/gifv2.jsx",
+		"/home/china/Development/marty/sample.txt",
+		"/mnt/780DF5612D0A8B8E/Development/Markovpy/text/sample_short.txt",
+		"/mnt/780DF5612D0A8B8E/Development/Markovpy/markov.py",
+		"/mnt/780DF5612D0A8B8E/Development/Markovpy/gen.py",
+		"/mnt/780DF5612D0A8B8E/Development/Markovpy/text/sample.txt",
+		"/home/china/Development/rbprojects/lexicon/lexicon.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/lib/cover.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/rspec/spec_helper.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/rspec/fixtures/search-neil-gaiman-3.json",
+		"/home/china/Development/rbprojects/OpenLibrary/rspec/client.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/rspec/fixtures/search-neil-gaiman-4.json",
+		"/home/china/Development/rbprojects/OpenLibrary/rspec/sample.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/lib/client.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/test.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/rspec/fixtures/search-neil-gaiman-2.json",
+		"/home/china/Development/rbprojects/OpenLibrary/lib/openlibrary.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/lib/author.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/Gemfile",
+		"/home/china/Development/rbprojects/OpenLibrary/rspec/fixtures/search-neil-gaiman.json",
+		"/home/china/Development/rbprojects/OpenLibrary/test/test_request.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/results.txt",
+		"/home/china/Downloads/Basic_Chinese_Workbook_.apkg_FILES/collection.anki2",
+		"/home/china/Development/rbprojects/OpenLibrary/lib/data.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/test2.rb",
+		"/home/china/Development/rbprojects/OpenLibrary/results2.txt",
+		"/home/china/Development/rbprojects/OpenLibrary/lib/search.rb",
+		"/home/china/Development/Caresharing/code_test/Gemfile",
+		"/mnt/780DF5612D0A8B8E/Development/Leveragelandlul/heist15_crypto_hard.json",
+		"/mnt/780DF5612D0A8B8E/Development/Leveragelandlul/heist15_crypto_easy.json",
+		"/mnt/780DF5612D0A8B8E/Development/Leveragelandlul/heist15_crypto_medium.json",
+		"/mnt/780DF5612D0A8B8E/Development/Leveragelandlul/jsontest.py",
+		"/mnt/780DF5612D0A8B8E/Development/Leveragelandlul/cryptogram.py",
+		"/home/china/Caresharing/railstut/app/assets/stylesheets/custom.css.scss",
+		"/home/china/Caresharing/railstut/db/seeds.rb",
+		"/home/china/Caresharing/railstut/Gemfile",
+		"/home/china/Caresharing/railstut/app/views/layouts/_header.html.erb",
+		"/home/china/Caresharing/railstut/app/models/user.rb",
+		"/home/china/Caresharing/railstut/test/controllers/users_controller_test.rb",
+		"/home/china/Caresharing/railstut/test/fixtures/users.yml",
+		"/home/china/Caresharing/railstut/app/views/shared/_user_form.html.erb",
+		"/home/china/Caresharing/railstut/app/views/users/edit.html.erb",
+		"/home/china/Caresharing/railstut/app/views/users/new.html.erb",
+		"/home/china/Caresharing/railstut/Vagrantfile",
+		"/home/china/Caresharing/project/app/views/patients/index.html.erb",
+		"/home/china/Caresharing/railstut/app/controllers/users_controller.rb",
+		"/home/china/Caresharing/railstut/test/integration/users_signup_test.rb",
+		"/home/china/Caresharing/railstut/test/models/user_test.rb",
+		"/home/china/Caresharing/railstut/test/integration/users_login_test.rb",
+		"/home/china/Caresharing/railstut/test/test_helper.rb",
+		"/home/china/Caresharing/project/config/nginx.conf",
+		"/home/china/Caresharing/railstut/app/controllers/sessions_controller.rb",
+		"/home/china/Caresharing/railstut/app/helpers/sessions_helper.rb",
+		"/home/china/Caresharing/railstut/test/helpers/sessions_helper_test.rb",
+		"/home/china/Caresharing/project/Vagrantfile",
+		"/home/china/Caresharing/project/config/install-ruby.sh",
+		"/home/china/Caresharing/project/Gemfile",
+		"/home/china/Caresharing/code_test/Gemfile",
+		"/home/china/Caresharing/project/config/vagrant-dependencies.sh",
+		"/home/china/Caresharing/project/config/unicorn.rb",
+		"/home/china/Caresharing/railstut/app/views/sessions/new.html.erb",
+		"/home/china/Caresharing/railstut/config/environment.rb",
+		"/home/china/Caresharing/railstut/config/routes.rb",
+		"/home/china/Caresharing/railstut/app/assets/javascripts/application.js",
+		"/home/china/Caresharing/railstut/app/controllers/application_controller.rb",
+		"/home/china/Caresharing/railstut/app/views/users/show.html.erb",
+		"/home/china/Caresharing/railstut/app/views/layouts/application.html.erb",
+		"/home/china/Caresharing/railstut/app/helpers/users_helper.rb",
+		"/home/china/Caresharing/railstut/app/views/shared/_error_messages.html.erb",
+		"/home/china/Caresharing/railstut/test/controllers/static_pages_controller_test.rb",
+		"/home/china/Caresharing/railstut/app/views/static_pages/home.html.erb",
+		"/home/china/Caresharing/railstut/test/integration/site_layout_test.rb",
+		"/home/china/Caresharing/railstut/db/migrate/20151104100542_add_index_to_users_email.rb",
+		"/home/china/Caresharing/railstut/app/views/layouts/_footer.html.erb",
+		"/home/china/Caresharing/railstut/app/views/static_pages/about.html.erb",
+		"/home/china/Caresharing/railstut/Guardfile",
+		"/home/china/Caresharing/railstut/.gitignore",
+		"/home/china/Caresharing/railstut/app/views/static_pages/contact.html.erb",
+		"/home/china/Caresharing/railstut/app/controllers/static_pages_controller.rb",
+		"/home/china/Caresharing/railstut/app/views/static_pages/help.html.erb",
+		"/home/china/Caresharing/railstut/app/helpers/application_helper.rb",
+		"/home/china/Caresharing/railstut/example_user.rb",
+		"/home/china/Caresharing/railstut/app/controllers/microposts_controller.rb",
+		"/home/china/Caresharing/railstut/app/models/micropost.rb",
+		"/home/china/Caresharing/railstut/app/assets/stylesheets/application.css",
+		"/home/china/Caresharing/railstut/config/initializers/assets.rb",
+		"/home/china/Caresharing/railstut/Bowerfile",
+		"/home/china/Caresharing/railstut/spec/controllers/recipes_controller_spec.rb",
+		"/home/china/Caresharing/railstut/app/controllers/recipes_controller.rb",
+		"/home/china/Caresharing/railstut/app/views/recipes/index.json.jbuilder",
+		"/home/china/Caresharing/railstut/app/views/recipes/_recipe.json.jbuilder",
+		"/home/china/Caresharing/railstut/app/controllers/home_controller.rb",
+		"/home/china/Caresharing/railstut/app/assets/javascripts/app.coffee",
+		"/home/china/Caresharing/railstut/spec/javascripts/spec_helper.coffee",
+		"/home/china/Caresharing/railstut/app/assets/javascripts/templates/index.html",
+		"/home/china/Caresharing/railstut/spec/spec_helper.rb",
+		"/home/china/Caresharing/railstut/spec/models/recipe_spec.rb",
+		"/home/china/Caresharing/railstut/spec/features/search_spec.rb",
+		"/home/china/Caresharing/railstut/vendor/assets/bower.json",
+		"/home/china/Caresharing/railstut/app/views/home/index.html.erb",
+		"/home/china/Caresharing/railstut/app/assets/stylesheets/application.css.scss",
+		"/home/china/Caresharing/railstut/config/application.rb",
+		"/home/china/Caresharing/railstut/config/vagrant-dependencies.sh",
+		"/home/china/Caresharing/railstut/app/controllers/api/v1/stories_controller.rb",
+		"/home/china/Caresharing/railstut/config/nginx.conf",
+		"/home/china/Caresharing/railstut/app/views/main/index.html.erb",
+		"/home/china/Caresharing/railstut/config/unicorn.rb",
+		"/home/china/Caresharing/railstut/app/assets/javascripts/controllers/main/mainIndexCtrl.js.coffee",
+		"/home/china/Caresharing/railstut/app/assets/javascripts/main.coffee",
+		"/home/china/Caresharing/angular-phonecat/app/index.html",
+		"/home/china/Caresharing/code_test/config/routes.rb",
+		"/home/china/Caresharing/code_test/app/angular/index.html",
+		"/home/china/Caresharing/codetest/Vagrantfile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"level country",
+			"dry, level",
+			"dry level",
+			"hence the",
+			"hence the institution",
+			"she is",
+			"for she",
+			"her for",
+			"keep her",
+			"keep her for",
+			"keep her for she",
+			"Forsake her ",
+			"O sluggard",
+			"when wilt thou sleep",
+			"When you kill a beast",
+			"There are big changes",
+			"Your co-workers",
+			"Your co-workers take pleasure in your garments.",
+			"Conquer your fears",
+			"Out of confusion",
+			"On ",
+			"[A-Z]* [A-Z]",
+			"\\n\\n\\n",
+			"\\n\\n",
+			"On\\\\ *\\n",
+			"On *\\n",
+			"On \\w\\w\\w\\w",
+			"adversity is",
+			"  O ",
+			"O men",
+			"\\d\\d:\\d\\d\\d:\\d\\d\\d",
+			"\\d. ",
+			"\\d\\d.",
+			"\\d\\d\\d.",
+			"cookie",
+			"Always",
+			"Chapter",
+			"logical",
+			"chapter",
+			"CHAPTER",
+			"pave over",
+			"comments)",
+			"(1 comment)",
+			"(4 comments)",
+			"(3 comments)",
+			"(2 comments)",
+			"(1 comment)",
+			"(3 comments)",
+			"(1 comment)",
+			"Everything wore",
+			"Clair",
+			"Chamberlayne",
+			"spent in conjecturing",
+			"The first half-hour was",
+			"I could easily forgive",
+			"I could easily",
+			"That also I could",
+			"\"language\"",
+			"\"key\"",
+			"\"subject",
+			"subject",
+			"publish_place",
+			"publish_date",
+			"author",
+			"perform_get_request",
+			"$",
+			".digest",
+			"Account",
+			"#777",
+			"json",
+			"phonecatApp",
+			"article",
+			"createPacket",
+			".packet",
+			"packet.size",
+			"go get",
+			"con"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"~\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/request.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/china/Development/marty/shit my markov generator says",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1566,
+								1566
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/author.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "rspec/client.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2093,
+								2093
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "openlibrary.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 99.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
