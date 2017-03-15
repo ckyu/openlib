@@ -10,9 +10,9 @@
 #   end
 # end
 
-$:.unshift File.expand_path("../..", __FILE__)
+$:.unshift File.expand_path("../", __FILE__)
 
-require './lib/openlibrary'
+require './lib/openlib'
 require 'webmock'
 require 'webmock/rspec'
 

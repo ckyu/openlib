@@ -1,4 +1,4 @@
-require "openlib/version"
+# require "./openlib/version"
 require 'rest-client'
 require 'json'
 require_relative './client.rb'

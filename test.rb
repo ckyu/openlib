@@ -1,6 +1,6 @@
-require './lib/openlibrary.rb'
+require './lib/openlib.rb'
 
-client = Openlibrary::Client.new
+client = Openlib::Client.new
 results = client.search({title: "Harry Potter"}, 5, 5)
 # results = client.search("neil gaiman", 20, 59)
 
