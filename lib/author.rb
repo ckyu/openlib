@@ -1,10 +1,10 @@
-module Openlibrary
+module Openlib
   class Author
     attr_accessor :name, :url
 
     def initialize(name, url)
       self.name = name
-      self.url = "#{Openlibrary::API_URL}/author/#{url}"
+      self.url = "#{Openlib::API_URL}/author/#{url}"
     end
 
     def to_s

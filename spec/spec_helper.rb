@@ -42,5 +42,5 @@ def fixture(file)
 end
 
 def api_url(path)
-  "#{Openlibrary::API_URL}#{path}"
+  "#{Openlib::API_URL}#{path}"
 end

@@ -1,6 +1,6 @@
 require_relative './author.rb'
 
-module Openlibrary
+module Openlib
   class Book
     attr_accessor :url
     attr_accessor :title
@@ -17,7 +17,7 @@ module Openlibrary
     attr_accessor :language
 
     def initialize(json)
-      self.url = "#{Openlibrary::API_URL}#{json["key"]}"
+      self.url = "#{Openlib::API_URL}#{json["key"]}"
       self.title = json["title"]
       self.authors =
         begin

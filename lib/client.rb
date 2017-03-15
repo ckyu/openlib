@@ -1,8 +1,8 @@
 require_relative './request.rb'
 
-module Openlibrary
+module Openlib
   class Client
-    include Openlibrary::Request
+    include Openlib::Request
 
     def initialize
       

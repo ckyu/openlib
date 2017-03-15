@@ -1,4 +1,4 @@
-module Openlibrary
+module Openlib
   class Cover
     
   end

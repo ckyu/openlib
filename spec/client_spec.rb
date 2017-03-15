@@ -4,7 +4,7 @@ require './lib/client'
 require './rspec/spec_helper.rb'
 
 describe 'Client' do
-  let(:client) { Openlibrary::Client.new }
+  let(:client) { Openlib::Client.new }
   
   describe '#search' do
     before do

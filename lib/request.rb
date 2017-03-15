@@ -1,9 +1,9 @@
 require_relative './book.rb'
 
-module Openlibrary
+module Openlib
   module Request
     def request(path, params={})
-      request_url = "#{Openlibrary::API_URL}#{path}"
+      request_url = "#{Openlib::API_URL}#{path}"
       RestClient.get request_url, { params: params }
     end
 
